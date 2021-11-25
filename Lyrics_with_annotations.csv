@@ -1,0 +1,365 @@
+ID ,TEXT ,ANNOTATOR 1,ANNOTATOR 2
+lyrics_test1,I need an easy friend,neg,ntr
+lyrics_test2,"I do, with an ear to lend ",neg,ntr
+lyrics_test3,I do think you fit this shoe,pos,ntr
+lyrics_test4,"I do, but you have a clue ",ntr,ntr
+lyrics_test5,I’ll take advantage while,pos,ntr
+lyrics_test6,You hang me out to dry,neg,neg
+lyrics_test7,But I can't see you every night,neg,neg
+lyrics_test8,"Free (I do, I do) ",pos,pos
+lyrics_test9,I'm standing in your line,ntr,ntr
+lyrics_test10,I do hope you have the time,neg,ntr
+lyrics_test11,I do pick a number too,ntr,ntr
+lyrics_test12,I do keep a date with you,pos ,pos
+lyrics_test13,"No, I can't see you every night",neg,neg
+lyrics_test14,I do ,ntr ,ntr
+lyrics_test1,What else should I be,neg,ntr
+lyrics_test2,All apologies,neg ,ntr
+lyrics_test3,What else could I say,ntr ,ntr
+lyrics_test4,Everyone is gay,pos,pos
+lyrics_test5,What else could I write,neg,ntr
+lyrics_test6,I don't have the right,neg,ntr
+lyrics_test7,What else should I be,neg,ntr
+lyrics_test8,All apologies,neg,ntr
+lyrics_test9,In the sun,pos ,pos
+lyrics_test10,In the sun I feel as one,pos,pos
+lyrics_test11,In the sun,pos ,pos
+lyrics_test12,In the sun,pos ,pos
+lyrics_test13,I'm married,ntr ,ntr
+lyrics_test14,Buried,neg,neg
+lyrics_test15,I wish I was like you,neg,neg
+lyrics_test16,Easily amused,ntr ,ntr
+lyrics_test17,Find my nest of salt,neg ,ntr
+lyrics_test18,Everything is my fault,neg ,neg
+lyrics_test19,I'll take all the blame,neg ,ntr
+lyrics_test20,Aqua seafoam shame,neg ,ntr
+lyrics_test21,Sunburn with freezeburn,ntr ,ntr
+lyrics_test22,Choking on the ashes of her enemy,neg ,neg
+lyrics_test23,In the sun,pos ,pos
+lyrics_test24,In the sun I feel as one,pos ,pos
+lyrics_test25,In the sun,pos ,pos
+lyrics_test26,In the sun,pos ,pos
+lyrics_test27,"Married, Married, Married",ntr ,ntr
+lyrics_test30,Buried,neg ,neg
+lyrics_test31,All in all is all we are...,ntr ,ntr
+lyrics_test1,"Big cheese, make me. Mine says:"" Go to the office.""",ntr,ntr
+lyrics_test2,"Big cheese, make me. Mine says:"" What'd I say""",ntr,ntr
+lyrics_test3,Black is black. Shading back. Need more enemies.,neg ,ntr
+lyrics_test4,Show you all what a man is.,ntr,ntr
+lyrics_test5,"Big lies, make me. Mine says:"" Go to the office.""",neg ,neg
+lyrics_test6,"Big cheese, make me. Mine says:"" What'd I say""",ntr,ntr
+lyrics_test7,Black is black. Shading back. Need more enemies.,neg ,ntr
+lyrics_test8,"Cheese glue, how are you",pos,ntr
+lyrics_test9,"Big cheese, make me. Mine says:"" Go to the office.""",ntr,ntr
+lyrics_test10,"Big cheese, make me. Mine says:"" What'd I lie""",neg ,ntr
+lyrics_test11,Black is black. Shading back. Need more enemies.,neg ,ntr
+lyrics_test12,"Cheese glue, how are you",pos,ntr
+lyrics_test13,Black is black. Shading back. Need more enemies.,neg,ntr
+lyrics_test14,"Show you all what a man is. Cheese glue, how are you",pos,ntr
+lyrics_test15,You're enemies. Show you all what a man is.,neg ,neg
+lyrics_test16,"[Almost inaudible] Ohhhhh, right.",neg,ntr
+lyrics_test1,"If you wouldn't mind, I wouldn't like it blew.",ntr,ntr
+lyrics_test2,"If you wouldn't mind, I wouldn't like it lose.",neg,ntr
+lyrics_test3,"If you wouldn't care, I wouldn't like to leave.",neg,neg
+lyrics_test4,"If you wouldn't mind, I wouldn't like to breathe.",neg,neg
+lyrics_test5,Is there another reason for your staying,neg,neg
+lyrics_test6,Could you believe him when you distrust his stain,neg,neg
+lyrics_test7,Here is another word that rhymes with shame.,neg,neg
+lyrics_test8,You could do anything.,pos,ntr
+lyrics_test1,Butchered sincerity. Act out of loyalty.,neg ,neg
+lyrics_test2,Defending free country. Wish away. Hey! Had a lobotomy.,neg ,neg
+lyrics_test3,To save little family. Surrealistic fantasy. Bad boy. Fight!,neg ,neg
+lyrics_test4,All we know id restitution. Living out your day of fusion.,ntr ,ntr
+lyrics_test5,"If there's a hope, please show me faster. Don't feel guilty, pass a riot.",ntr ,ntr
+lyrics_test6,Somebody said that they're not much like I am.,neg,neg
+lyrics_test7,"I know I can't make it up. Althought if you go along, I'll sing your song.",ntr ,ntr
+lyrics_test8,Sickening pessimists. Despicable masses.,neg,neg
+lyrics_test9,Asseverated commumists. Apocalyptic bastards.,neg,neg
+lyrics_test10,Rinkydink God. For putting me on this earth.,neg,neg
+lyrics_test11,Being very privileged. Death in mind. Nurse!,neg,neg
+lyrics_test12,All we know id restitution. Living out your day of fusion.,ntr ,ntr
+lyrics_test13,"If there's a hope, please show me faster. Don't feel guilty, pass a riot.",ntr ,ntr
+lyrics_test14,Somebody said that they're not much like I am.,neg,neg
+lyrics_test15,"I know I can't make it up. Althought if you go along,",ntr ,ntr
+lyrics_test16,I'll sing your song.,pos,ntr
+lyrics_test17,Downer.,neg ,neg
+lyrics_test1,I'm not like them but I can pretend,neg,neg
+lyrics_test2,The sun is gone but I have a light,pos,ntr
+lyrics_test3,The day is done but I'm having fun,pos,pos
+lyrics_test4,I think I'm dumb or maybe I'm just happy,pos,pos
+lyrics_test5,I think I'm just happy,pos,pos
+lyrics_test6,My heart is broke but I have some glue,pos,neg
+lyrics_test7,Help me inhale and mend it with you,neg,ntr
+lyrics_test8,We'll float around and hang out on clouds,pos,ntr
+lyrics_test9,Then we'll come down and have a hangover,neg,ntr
+lyrics_test10,We'll have a hangover,neg,ntr
+lyrics_test11,"Skin the sun, fall asleep",ntr,ntr
+lyrics_test12,"Wish away, soul is cheap",ntr,ntr
+lyrics_test13,"Lesson learned, wish me luck",pos,ntr
+lyrics_test14,"Soothe the burn, wake me up",ntr,ntr
+lyrics_test1,"Bell on door clanks, come on in.",ntr,ntr
+lyrics_test2,Floyd observes my hairy chin.,ntr,ntr
+lyrics_test3,Sit down chair don't be afraid.,pos,pos
+lyrics_test4,Steamed hot towel on my face.,ntr,ntr
+lyrics_test5,I was shaved [X3],ntr,ntr
+lyrics_test6,Barney ties me to the chair.,neg,neg
+lyrics_test7,I can't see I'm really scared.,neg,neg
+lyrics_test8,"Floyd breaths hard I hear a zip,",neg,ntr
+lyrics_test9,Pee-pee pressed against my lips.,neg,neg
+lyrics_test10,I was shamed [X3],neg,neg
+lyrics_test11,I sense others in the room opie aunt bee I presume.,ntr,ntr
+lyrics_test12,They take turns and cut me up.,neg,neg
+lyrics_test13,I died smothered in Andy's butt,neg,neg
+lyrics_test14,I was shaved [X3],ntr ,ntr
+lyrics_test1,It's so relieving to know that you're leaving as soon as you get paid,pos,pos
+lyrics_test2,It's so relaxing to hear you're asking wherever you get your way,pos,pos
+lyrics_test3,"I's so soothing to know that you'll sue me, this is starting to",pos ,pos
+lyrics_test4,sound the same,nr,ntr
+lyrics_test5,I miss the comfort in being sad,neg,neg
+lyrics_test6,"In her false withness, we hope you're still with us, to see if they gloar",neg ,ntr
+lyrics_test7,or drown,neg,neg
+lyrics_test8,"Our favorite paitent, A display of patience, disease-covered Puget Sound",neg,neg
+lyrics_test9,"She'll come back as fire, to burn all the liars, and leave a blanket of ash",neg,neg
+lyrics_test10,on the ground I muss teh comfort in being sad,neg ,neg
+lyrics_test1,She eyes me like a pisces when I am weak,neg,ntr
+lyrics_test2,I've been locked inside your Heart-Shaped box for weeks,neg,neg
+lyrics_test3,I've been drawn into your magnet tar pit trap,neg,ntr
+lyrics_test4,I wish I could eat your cancer when you turn black,neg,pos
+lyrics_test5,Hey,ntr,ntr
+lyrics_test6,Wait,ntr,ntr
+lyrics_test7,I've got a new complaint,neg,neg
+lyrics_test8,Forever in debt to your priceless advice,neg,ntr
+lyrics_test9,Meat-eating orchids forgive no one just yet,neg,ntr
+lyrics_test10,Cut myself angel's hair and baby's breath,neg,ntr
+lyrics_test11,Broken hymen of your highness I'm left black,neg,ntr
+lyrics_test12,Throw down your umbilical noose so I can climb right back,neg,ntr
+lyrics_test1,I am my own parasite,neg,neg
+lyrics_test2,I don't need a host to live,ntr,ntr
+lyrics_test3,We feed off of each other,neg,pos
+lyrics_test4,We can share our endorphns,pos,pos
+lyrics_test5,"Doll steak, test meat",ntr,ntr
+lyrics_test6,I won my own pet virus,pos,ntr
+lyrics_test7,I get to pet and name her,ntr,ntr
+lyrics_test8,Her milk is my shit,neg ,ntr
+lyrics_test9,My shit is her milk,neg ,ntr
+lyrics_test10,"Doll steak, test meat",ntr,ntr
+lyrics_test11,Look on the bright side is suicide,neg,neg
+lyrics_test12,Lost eyesight I'm on your side,ntr,ntr
+lyrics_test13,"Angel left wing, right wing, broken wing",neg,ntr
+lyrics_test14,Lack of iron and/or sleeping,neg,neg
+lyrics_test15,Protector of the kennel,pos ,ntr
+lyrics_test16,Ecto-plasma,ntr ,ntr
+lyrics_test17,Ecto-Skeletal,ntr ,ntr
+lyrics_test18,Obituary birthday,neg,ntr
+lyrics_test19,Your scent is still here in my place of recovery,pos ,ntr
+lyrics_test1,Fill me in on your new vision,ntr,ntr
+lyrics_test2,Wake me up with indecision,neg ,ntr
+lyrics_test3,Help me trust your mighty wisdom,pos ,ntr
+lyrics_test4,Yes i eat cow - i am not proud,neg ,neg
+lyrics_test5,Show me how you question question,ntr ,ntr
+lyrics_test6,Lead the way to my temptation,pos ,ntr
+lyrics_test7,Take my hand and give it cleaning,pos ,ntr
+lyrics_test8,Yes i eat cow - i am not proud,neg ,neg
+lyrics_test9,Is he in his easychair,ntr,ntr
+lyrics_test10,Poop as hard as a rock,ntr ,ntr
+lyrics_test11,I don't like you anyway,neg ,neg
+lyrics_test12,Seal it in a box,ntr ,ntr
+lyrics_test13,All new,ntr ,ntr
+lyrics_test14,Damn you,neg ,neg
+lyrics_test1,This is out of our range [x3],neg ,ntr
+lyrics_test2,And it's grown (gross).,neg ,ntr
+lyrics_test3,This is getting to be [x3],ntr ,ntr
+lyrics_test4,A joke. I'm a negetive creep [x3],neg ,neg
+lyrics_test5,And I'm stoned. I'm a negative creep [x3],neg ,neg
+lyrics_test6,And I'm ... [scream],ntr ,neg
+lyrics_test7,Daddy's little girl ain't a girl no more [x6],ntr ,ntr
+lyrics_test8,This is getting to be [x3],ntr ,ntr
+lyrics_test9,And it's grown (gross).,ntr ,ntr
+lyrics_test10,This is out of our range [x3],neg ,ntr
+lyrics_test11,A joke. I'm a negetive creep [x3],neg ,neg
+lyrics_test12,And I'm stoned. I'm a negative creep [x3],neg ,neg
+lyrics_test13,And I'm ... [scream],neg ,neg
+lyrics_test14,Daddy's little girl ain't a girl no more [x6],ntr ,ntr
+lyrics_test15,Yeah...stoned...stoned.,ntr ,ntr
+lyrics_test16,Daddy's little girl ain't a girl no more [x14],ntr ,ntr
+lyrics_test1,When I'm feeling tired.,neg,ntr
+lyrics_test2,She puts food through the door.,ntr,ntr
+lyrics_test3,I crawl towards the cursed light.,neg,neg
+lyrics_test4,Sometimes I can't find my way.,neg,neg
+lyrics_test5,Newspapers spin' round.,ntr,ntr
+lyrics_test6,Soaking all that they can.,ntr,ntr
+lyrics_test7,The cleaning is too kind.,pos,ntr
+lyrics_test8,A good hosing down.,pos ,ntr
+lyrics_test9,The lady whom I feel a maternal love for.,pos,pos
+lyrics_test10,Cannot look me in the eyes.,neg,neg
+lyrics_test11,But I see hers and they are blue.,ntr ,ntr
+lyrics_test12,And they cock and twist and masturbate.,neg ,neg
+lyrics_test13,I say so [x3],ntr,ntr
+lyrics_test14,Nirvana [x6],ntr ,pos
+lyrics_test15,Black windows a problem.,ntr ,ntr
+lyrics_test16,I scratch with my nails.,neg ,neg
+lyrics_test17,I see others just like me.,ntr ,ntr
+lyrics_test18,Why do they not try to escape.,neg,ntr
+lyrics_test19,But we're not the only ones.,neg ,ntr
+lyrics_test20,They point in my way.,ntr ,ntr
+lyrics_test21,They come with the flashing lights.,neg ,ntr
+lyrics_test22,And take my famliy away.,neg ,neg
+lyrics_test23,And very later I have learned to accept some friends of ridicule.,pos  ,ntr
+lyrics_test24,My whole existence is for your amusement.,neg ,neg
+lyrics_test25,And thatis why I'm here with you.,ntr ,ntr
+lyrics_test26,Don't take me away. I've found.,neg ,neg
+lyrics_test27,Nirvana [x8],ntr ,pos
+lyrics_test1,I'm on my time with everyone,pos,pos
+lyrics_test2,I have very bad posture,neg,neg
+lyrics_test3,Sit and drink Pennyroyal Tea,ntr,ntr
+lyrics_test4,Distill the life that's inside of me,neg,neg
+lyrics_test5,Sit and drink Pennyroyal Tea,ntr,ntr
+lyrics_test6,I'm anemic royalty,neg,ntr
+lyrics_test7,Give me a Leonard Cohen afterworld,neg,neg
+lyrics_test8,So I can sigh eternally,neg,neg
+lyrics_test9,I'm so tired I can't sleep,neg,neg
+lyrics_test10,I'm a liar and a thief,neg,neg
+lyrics_test11,Sit and drink Pennyroyal Tea,ntr,ntr
+lyrics_test12,I'm anemic royalty,neg,ntr
+lyrics_test13,I'm on warm milk and laxatives,neg ,ntr
+lyrics_test14,Cherry-flavored antacids,neg ,ntr
+lyrics_test15,Sit and drink Pennyroyal Tea,ntr,ntr
+lyrics_test16,Distill the life that's inside of me,neg ,neg
+lyrics_test17,Sit and drink Pennyroyal Tea,ntr,neg
+lyrics_test18,I'm anemic royalty,neg ,ntr
+lyrics_test1,Use just once and destroy,neg,ntr
+lyrics_test2,Invasion of our piracy,neg,neg
+lyrics_test3,Afterbirth of a nation,neg ,neg
+lyrics_test4,Starve without your skeleton key,neg,neg
+lyrics_test5,I love you for what I am not,pos ,pos
+lyrics_test6,I do not want what I have got,neg,neg
+lyrics_test7,A blanket acne'ed with ciggarette burns,neg,neg
+lyrics_test8,Speak at once while taking turns,ntr,ntr
+lyrics_test9,Second-rate third defree burns,neg,neg
+lyrics_test10,What is wrong with me,neg,neg
+lyrics_test11,What is what I need,ntr,ntr
+lyrics_test12,What do I think I think,ntr,ntr
+lyrics_test13,This had nothing to do with what you think,neg,ntr
+lyrics_test14,If you ever think at all,ntr,ntr
+lyrics_test15,Bi-polar opposites attract,neg,ntr
+lyrics_test16,All of a sudden my water broke,neg,ntr
+lyrics_test17,"hate, hate your enemies",neg,neg
+lyrics_test18,"Save, save your friends",pos ,ntr
+lyrics_test19,"Find, find your place",ntr,ntr
+lyrics_test20,"Speak, speak the truth",ntr  ,ntr
+lyrics_test1,"Rape me,",neg,neg
+lyrics_test2,"Rape me, my friend",neg,neg
+lyrics_test3,"Rape me,",neg,neg
+lyrics_test4,Rape me again,neg,neg
+lyrics_test5,I'm not the only one [x4],neg,ntr
+lyrics_test6,"Hate me,",neg,neg
+lyrics_test7,Do it and do it again,neg,neg
+lyrics_test8,Waste me,neg,neg
+lyrics_test9,"Rape me, my friend",neg,neg
+lyrics_test10,I'm not the only one [x4],neg,ntr
+lyrics_test11,My favorite inside source,ntr,ntr
+lyrics_test12,I'll kiss your open sores,neg,ntr
+lyrics_test13,Appreciate your concern,neg,ntr
+lyrics_test14,You'll always stink and burn,neg,neg
+lyrics_test15,"Rape me,",neg,neg
+lyrics_test16,"Rape me, my friend",neg,neg
+lyrics_test17,"Rape me,",neg,neg
+lyrics_test18,Rape me again,neg,neg
+lyrics_test19,I'm not the only one [x4],neg,neg
+lyrics_test20,Rape me..............,neg ,neg
+lyrics_test1,Like most babies smell like butter,ntr,ntr
+lyrics_test2,his smell smelled like no other,neg,neg
+lyrics_test3,he was born scentless and senseless,neg,neg
+lyrics_test4,he was born a scentless apprentice,neg,neg
+lyrics_test5,"Go away - get away, get away, get a-way",neg,neg
+lyrics_test6,every wet nurse refused to feed him,neg,neg
+lyrics_test7,electrolytes smell like semen,neg,ntr
+lyrics_test8,I promise not to sell your perfumed secrets,ntr,ntr
+lyrics_test9,there are countless formulas for pressing flowers,ntr,ntr
+lyrics_test10,I lie in the soll and fertilize mushrooms,ntr,ntr
+lyrics_test11,Leaking out gas fumes are made into perfume,neg ,ntr
+lyrics_test12,You can't fire me because I quit,neg,ntr
+lyrics_test13,Throw me in the fire and I won't throw a fit,neg ,neg
+lyrics_test1,Won't you believe it. It's Just my luck. [x4],neg,neg
+lyrics_test2,No recess. [x3],neg,neg
+lyrics_test3,You're in high school again. [x7],ntr,ntr
+lyrics_test4,You're nothing again.,neg,neg
+lyrics_test5,No recess. [x7],neg,neg
+lyrics_test1,"In my eyes, I'm not lazy. In my face, it's not over.",pos ,pos
+lyrics_test2,"In your room, I'm not older. In your eyes, I'm not worth it.",neg ,ntr
+lyrics_test3,Give me back my alcohol. [x6],neg ,neg
+lyrics_test4,"Give me back my ..., give me back my..., give me back!",neg ,neg
+lyrics_test5,Give me all your ... [x6],ntr ,ntr
+lyrics_test6,Give me all your ... [x5],ntr ,ntr
+lyrics_test7,Give me back ... aaaaah! ... love!,ntr ,neg
+lyrics_test8,Give me all your ... [x5],ntr ,ntr
+lyrics_test9,Give me your ... aaaaah! ...fuck!,neg ,ntr
+lyrics_test1,Teenage angst has paid off well,pos ,pos
+lyrics_test2,Now I'm bored and old,neg,neg
+lyrics_test3,Self-Appointed judges judge,neg,ntr
+lyrics_test4,More than they have sold,ntr,ntr
+lyrics_test5,Teenage angst has paid off well,pos ,pos
+lyrics_test6,Now I'm bored and old,neg,neg
+lyrics_test7,Self-Appointed judges judge,neg,ntr
+lyrics_test8,More than they have sold,ntr,ntr
+lyrics_test9,Serve the servants - Oh no,neg,neg
+lyrics_test10,That legendary divorce is such a bore,neg,neg
+lyrics_test11,As my bones grew they did hurt,neg,neg
+lyrics_test12,They hurt really bad,neg,neg
+lyrics_test13,I tried hard to have a father,neg,neg
+lyrics_test14,But instead I had a dad,neg,neg
+lyrics_test15,I just want you to know that I,ntr,ntr
+lyrics_test16,Don't hate you anymore,pos ,pos
+lyrics_test17,there is nothing I could say,neg,ntr
+lyrics_test18,that I haven't thought before,ntr,ntr
+lyrics_test19,Serve the servants - oh no,neg,neg
+lyrics_test20,That legendary divorce is such a bore,neg,neg
+lyrics_test1,Afraid to grade,neg ,neg
+lyrics_test2,Wouldn't it be fun,pos ,pos
+lyrics_test3,Cross says floss,ntr ,ntr
+lyrics_test5,Wet your bed,neg ,ntr
+lyrics_test7,Sun felt numb,neg ,neg
+lyrics_test9,Your eyes,ntr ,ntr
+lyrics_test10,Teacher said,ntr ,ntr
+lyrics_test15,The Preacher said,ntr ,ntr
+lyrics_test16,Don't have nothing for you,neg ,neg
+lyrics_test23,Spell the smell,ntr,ntr
+lyrics_test25,Search for a church,ntr ,ntr
+lyrics_test27,Wet your bed,neg ,ntr
+lyrics_test29,Colt ain't cold,ntr,ntr
+lyrics_test1,They lead a lifetime that is comfortable,pos,pos
+lyrics_test2,They travel far to keep their stomach full,neg,ntr
+lyrics_test3,They make their living off of arts and crafts,ntr,ntr
+lyrics_test4,"The kind with seashells, driftwoord and burlap",ntr,ntr
+lyrics_test5,They make a deal when they come to town,pos,ntr
+lyrics_test6,The Sunday swap meet is a battle ground,neg,pos
+lyrics_test7,She loves him more than he will ever know,neg,pos
+lyrics_test8,He loves her more than he will ever show,neg,pos
+lyrics_test9,Keeps his cigarettes close to his heart,ntr,ntr
+lyrics_test10,Keeps her photographs close to her heart,pos,ntr
+lyrics_test11,Keeps the bitterness close to the heart,neg,ntr
+lyrics_test1,"...""Moderate Rock""...",ntr,ntr
+lyrics_test2,"May day, everyday, is my day!",pos,ntr
+lyrics_test3,"Could've had a heart attack, my heart!",ntr,neg
+lyrics_test4,"He don't know heads or tails, my heart!",ntr,ntr
+lyrics_test5,"We all want something fair, my heart!",pos,ntr
+lyrics_test6,Hey!... Hey!... Heeey! Hey! Heeeey!,pos,ntr
+lyrics_test7,"Out of town, out of fire, is my eyes!",neg,ntr
+lyrics_test8,"He don't know heads or tails, my heart!",ntr,ntr
+lyrics_test9,"One more at the phone, my eyes!",ntr,ntr
+lyrics_test10,"One more, at the phone, my heart! Hey!...Hey!... Heeeeey!",pos,ntr
+lyrics_test11,Mean heart!,neg,neg
+lyrics_test12,Cold heart! [x7]...,neg,neg
+lyrics_test13,Hey......,ntr ,ntr
+lyrics_test1,I am buried up to my neck in,neg,neg
+lyrics_test2,Contradictionary lies,neg,neg
+lyrics_test3,I take pride as the kind of illiterature,pos,pos
+lyrics_test4,I'm very ape and very nice,pos,pos
+lyrics_test5,If you ever need anything please don't hesitate,pos,ntr
+lyrics_test6,to ask someone else first,neg,ntr
+lyrics_test7,I'm too busy acting like I'm not naive.,neg,ntr
+lyrics_test8,I've seen it all I was here first,ntr,ntr
+lyrics_test9,Out of the ground,ntr,ntr
+lyrics_test10,Into the sky,ntr,ntr
+lyrics_test11,Out of the sky,ntr,ntr
+lyrics_test12,Into he firt,ntr,ntr
