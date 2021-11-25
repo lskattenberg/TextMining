@@ -24,13 +24,13 @@ myEmotions = ['anger','fear','disgust','sadness','joy','anticipation']
 NRCpolarity= ['positive','negative']
 NRCcomplete=NRCpolarity+NRCemotions
 myEmotionsSet = ['anger','sadness','joy','anticipation']
-#emotionset=NRCpolarity
-emotionset=NRCemotions
+emotionset=NRCpolarity
+# emotionset=NRCemotions
 
 ## input output files
-filename="inout/toy_input_emo.csv"
-outputfilename="inout/toy_output_emo.csv"
-detailed_outputfile = "inout/NRCemo_detailed_overview.txt"
+filename="Nirvana/Leonard/Lyrics_with_Leonard_annotations_formatted.csv"
+outputfilename="Nirvana/Leonard/NRC_Nirvana_Leonard.csv"
+detailed_outputfile = "Nirvana/Leonard/NRC_Nirvana_Leonard_detailed_overview.txt"
 f_out=open(detailed_outputfile,"w+")
 
 # emotion lexicon
@@ -79,7 +79,7 @@ def aggregate_emotions(emoCounter):
 def aggregate_polarity(emoCounter):
     # polarity value : number of positive words - number of negative words
     # if result = 0 or no positive or negative word is found  => polarity value = neutral
-    polarity="neutral"
+    polarity="ntr"
     if (emoCounter['positive']-emoCounter['negative'])>0:
         polarity='pos'
     elif (emoCounter['positive']-emoCounter['negative'])<0:
@@ -92,7 +92,7 @@ def main():
     for e in emotionset:
         aggrEmoCounter[e] = 0
     with open(outputfilename, 'w', newline='') as file:
-        writer = csv.writer(file, delimiter="\t")
+        writer = csv.writer(file, delimiter=";")
         writer.writerow(["ID", "Gold", "Pred", "Text"])
         f_out.write("ID;Pred;details\n")
         with open(filename, newline='') as csvfile:
@@ -108,13 +108,13 @@ def main():
                     main_result=aggregate_emotions(emoCounter)
                 # write result to files
                 writer.writerow([row[0], row[1], main_result, row[2]])
-                f_out.write( row[0] + ";" + main_result + ";" + str(emoCounter)+"\n")
-                f_out.write("ID;PRED;details")
+                f_out.write( row[0] + ";" + main_result + ";" + str(emoCounter)[8:-1]+"\n")
+                # f_out.write("ID;PRED;details")
 
                 # overall stats
                 aggrEmoCounter[main_result]+=1
     print("emotionset:\t\t",emotionset,"\nglobal stats:\t",aggrEmoCounter,sum(aggrEmoCounter.values()))
-    print(len(reader))
+    # print(len(reader))
 
 
 

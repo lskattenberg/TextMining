@@ -7,15 +7,15 @@
 import csv
 from sklearn.model_selection import cross_validate
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
-inputfile="Nirvana/VADER_Nirvana_Livia.csv"
-outputfile= "Nirvana/VADER_Nirvana_Livia_evaluation_report.txt"
+inputfile="Nirvana/Leonard/VADER_Nirvana_Leonard.csv"
+outputfile= "Nirvana/Leonard/VADER_Nirvana_Leonard_evaluation_report.txt"
 f_out=open(outputfile,"w+")
 
 y_true=[] # gold annotations
 y_pred=[] # system predictions
 
 with open(inputfile, newline='') as csvfile:
-    reader = csv.reader(csvfile, delimiter='\t', quotechar='|')
+    reader = csv.reader(csvfile, delimiter=';', quotechar='|')
     next(reader)  # skip header
     for row in reader:
         y_true.append(row[1])

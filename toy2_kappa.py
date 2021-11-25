@@ -12,11 +12,12 @@
 
 import pandas as pd
 from nltk.metrics import agreement
-inputfile="output_pos.csv"
+inputfile="A6/Nirvana/VADER_Nirvana_Livia.csv"
 print(inputfile)
-merged_df=pd.read_csv(inputfile, header=None, index_col=0)
-merged_df.columns=["label_a1","label_a2"]
+merged_df=pd.read_csv(inputfile, header=0, index_col=0, delimiter=";")
 
+merged_df = merged_df[["Gold","Pred"]]
+print(merged_df.head(5))
 
 print(merged_df.shape)
 
@@ -30,8 +31,8 @@ labels_matched_df = merged_df.dropna()
 #  expects.
 data = []
 for idx, row in labels_matched_df.iterrows():
-    data.append(("a1", idx, row["label_a1"]))
-    data.append(("a2", idx, row["label_a2"]))
+    data.append(("a1", idx, row["Gold"]))
+    data.append(("a2", idx, row["Pred"]))
 
 print(data)
 

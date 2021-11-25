@@ -1,4 +1,4 @@
-gold	:[['pos', 58], ['ntr', 112], ['neg', 194]]
+gold	:[['ntr', 112], ['neg', 194], ['pos', 58]]
 pred	:[['pos', 75], ['ntr', 183], ['neg', 106]]
 
 input:Nirvana/VADER_Nirvana_Livia.csv

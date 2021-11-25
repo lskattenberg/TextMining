@@ -12,9 +12,9 @@ nlp=spacy.load('en')
 
 
 analyzer = SentimentIntensityAnalyzer()
-filename="Nirvana/Lyrics_with_annotations_formatted.csv"
-outputfilename="Nirvana/VADER_Nirvana_Livia.csv"
-outputfile = "Nirvana/VADER_Nirvana_Livia_detailed_overview.txt"
+filename="Nirvana/Leonard/Lyrics_with_Leonard_annotations_formatted.csv"
+outputfilename="Nirvana/Leonard/VADER_Nirvana_Leonard.csv"
+outputfile = "Nirvana/Leonard/VADER_Nirvana_Leonard_detailed_overview.txt"
 f_out=open(outputfile,"w+")
 
 
@@ -29,7 +29,7 @@ def sentence_doc():
 	# analyzing file line per line
 
 	with open(outputfilename, 'w', newline='') as file:
-		writer = csv.writer(file,delimiter="\t")
+		writer = csv.writer(file,delimiter=";")
 		writer.writerow(["ID", "Gold", "Pred","Text"])
 		f_out.write("ID;Pred;details\n")
 		with open(filename, newline='') as csvfile:
