@@ -29,12 +29,12 @@ emotionset=NRCemotions
 
 ## input output files
 filename="inout/toy_input_emo.csv"
-outputfilename="inout/NRCemo_output.csv"
+outputfilename="inout/toy_output_emo.csv"
 detailed_outputfile = "inout/NRCemo_detailed_overview.txt"
 f_out=open(detailed_outputfile,"w+")
 
 # emotion lexicon
-filepath = "lexicalResources/NRC-Emotion-Lexicon-Wordlevel-v0.92.txt"
+filepath = "lexical_resources/NRC-Emotion-Lexicon-Wordlevel-v0.92.txt"
 emolex_df = pd.read_csv(filepath,  names=["word", "emotion", "association"],  sep='\t')
 
 

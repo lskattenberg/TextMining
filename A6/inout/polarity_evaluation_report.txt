@@ -1,0 +1,25 @@
+gold	:[['neutral', 267], ['positive', 493], ['negative', 248]]
+pred	:[['neutral', 603], ['positive', 219], ['negative', 186]]
+
+input:inout/toy_output_polarity.csv
+
+accuracy_score:0.31547619047619047
+
+classification report:
+              precision    recall  f1-score   support
+
+    negative       0.24      0.18      0.20       248
+     neutral       0.28      0.62      0.38       267
+    positive       0.49      0.22      0.30       493
+
+    accuracy                           0.32      1008
+   macro avg       0.34      0.34      0.30      1008
+weighted avg       0.37      0.32      0.30      1008
+
+
+confusion matrix:
+
+[[ 44 139  65]
+ [ 55 166  46]
+ [ 87 298 108]]
+row is gold  /	column is predicted

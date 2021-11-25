@@ -22,9 +22,9 @@ sentences = ["VADER is smart, handsome, and funny.", # positive sentence example
     "Today kinda sux! But I'll get by, lol" # mixed sentiment example with slang and constrastive conjunction "but"
  ]
 
+nltk.data.path.append("/home/leonard/Documents/TextMining/A6/lexical_resources")
+nltk.download('vader_lexicon')
 analyzer = SentimentIntensityAnalyzer()
 for sentence in sentences:
     vs = analyzer.polarity_scores(sentence)
     print("{:-<1} {}".format(sentence+'\n', str(vs)+'\n'))
-    
-    

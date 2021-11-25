@@ -1,0 +1,25 @@
+gold	:[['pos', 58], ['ntr', 112], ['neg', 194]]
+pred	:[['pos', 75], ['ntr', 183], ['neg', 106]]
+
+input:Nirvana/VADER_Nirvana_Livia.csv
+
+accuracy_score:0.5824175824175825
+
+classification report:
+              precision    recall  f1-score   support
+
+         neg       0.92      0.50      0.65       194
+         ntr       0.47      0.77      0.58       112
+         pos       0.39      0.50      0.44        58
+
+    accuracy                           0.58       364
+   macro avg       0.59      0.59      0.56       364
+weighted avg       0.69      0.58      0.59       364
+
+
+confusion matrix:
+
+[[97 70 27]
+ [ 7 86 19]
+ [ 2 27 29]]
+row is gold  /	column is predicted

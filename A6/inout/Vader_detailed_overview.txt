@@ -1,0 +1,1009 @@
+ID;Pred;details
+ID-3 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-4 ;negative;{'neg': 0.084, 'neu': 0.916, 'pos': 0.0, 'compound': -0.296}
+ID-5 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-6 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-7 ;positive;{'neg': 0.0, 'neu': 0.883, 'pos': 0.117, 'compound': 0.4173}
+ID-8 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-9 ;negative;{'neg': 0.078, 'neu': 0.922, 'pos': 0.0, 'compound': -0.1531}
+ID-10 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-11 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-12 ;negative;{'neg': 0.124, 'neu': 0.876, 'pos': 0.0, 'compound': -0.4278}
+ID-13 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-14 ;negative;{'neg': 0.196, 'neu': 0.804, 'pos': 0.0, 'compound': -0.0572}
+ID-15 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-16 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-17 ;negative;{'neg': 0.075, 'neu': 0.925, 'pos': 0.0, 'compound': -0.0572}
+ID-18 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-19 ;negative;{'neg': 0.149, 'neu': 0.851, 'pos': 0.0, 'compound': -0.0572}
+ID-20 ;negative;{'neg': 0.264, 'neu': 0.736, 'pos': 0.0, 'compound': -0.0191}
+ID-21 ;positive;{'neg': 0.0, 'neu': 0.934, 'pos': 0.066, 'compound': 0.0516}
+ID-22 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-23 ;positive;{'neg': 0.0, 'neu': 0.755, 'pos': 0.245, 'compound': 0.3818}
+ID-24 ;positive;{'neg': 0.0, 'neu': 0.894, 'pos': 0.106, 'compound': 0.3818}
+ID-25 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-26 ;positive;{'neg': 0.0, 'neu': 0.69, 'pos': 0.31, 'compound': 0.4019}
+ID-27 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-28 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-29 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-30 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-31 ;negative;{'neg': 0.096, 'neu': 0.904, 'pos': 0.0, 'compound': -0.1531}
+ID-32 ;negative;{'neg': 0.415, 'neu': 0.585, 'pos': 0.0, 'compound': -0.4278}
+ID-33 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-34 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-35 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-36 ;positive;{'neg': 0.0, 'neu': 0.714, 'pos': 0.286, 'compound': 0.25}
+ID-37 ;positive;{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+ID-38 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-39 ;negative;{'neg': 0.081, 'neu': 0.919, 'pos': 0.0, 'compound': -0.3182}
+ID-40 ;neutral;{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}
+ID-41 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-42 ;positive;{'neg': 0.0, 'neu': 0.911, 'pos': 0.089, 'compound': 0.4648}
+ID-43 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-44 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-45 ;positive;{'neg': 0.0, 'neu': 0.687, 'pos': 0.313, 'compound': 0.8286}
+ID-46 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-47 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-48 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-49 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-50 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-51 ;positive;{'neg': 0.0, 'neu': 0.732, 'pos': 0.268, 'compound': 0.6705}
+ID-52 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-53 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-54 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-55 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-56 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-57 ;negative;{'neg': 0.15, 'neu': 0.85, 'pos': 0.0, 'compound': -0.4588}
+ID-58 ;neutral;{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}
+ID-59 ;negative;{'neg': 0.141, 'neu': 0.859, 'pos': 0.0, 'compound': -0.6956}
+ID-60 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-61 ;negative;{'neg': 0.168, 'neu': 0.832, 'pos': 0.0, 'compound': -0.4278}
+ID-62 ;negative;{'neg': 0.087, 'neu': 0.913, 'pos': 0.0, 'compound': -0.2732}
+ID-63 ;positive;{'neg': 0.0, 'neu': 0.755, 'pos': 0.245, 'compound': 0.5994}
+ID-64 ;positive;{'neg': 0.0, 'neu': 0.704, 'pos': 0.296, 'compound': 0.6369}
+ID-65 ;positive;{'neg': 0.032, 'neu': 0.893, 'pos': 0.075, 'compound': 0.5229}
+ID-66 ;negative;{'neg': 0.245, 'neu': 0.722, 'pos': 0.033, 'compound': -0.9565}
+ID-67 ;positive;{'neg': 0.0, 'neu': 0.83, 'pos': 0.17, 'compound': 0.5423}
+ID-68 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-69 ;negative;{'neg': 0.253, 'neu': 0.529, 'pos': 0.218, 'compound': -0.0387}
+ID-70 ;positive;{'neg': 0.0, 'neu': 0.606, 'pos': 0.394, 'compound': 0.0772}
+ID-71 ;positive;{'neg': 0.045, 'neu': 0.806, 'pos': 0.149, 'compound': 0.5423}
+ID-72 ;negative;{'neg': 0.15, 'neu': 0.85, 'pos': 0.0, 'compound': -0.4278}
+ID-73 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-74 ;positive;{'neg': 0.0, 'neu': 0.855, 'pos': 0.145, 'compound': 0.2577}
+ID-75 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-76 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-77 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-78 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-79 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-80 ;positive;{'neg': 0.0, 'neu': 0.851, 'pos': 0.149, 'compound': 0.2732}
+ID-81 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-82 ;positive;{'neg': 0.0, 'neu': 0.687, 'pos': 0.313, 'compound': 0.6249}
+ID-83 ;neutral;{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}
+ID-84 ;positive;{'neg': 0.0, 'neu': 0.508, 'pos': 0.492, 'compound': 0.4404}
+ID-85 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-86 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-87 ;positive;{'neg': 0.0, 'neu': 0.845, 'pos': 0.155, 'compound': 0.296}
+ID-88 ;positive;{'neg': 0.0, 'neu': 0.693, 'pos': 0.307, 'compound': 0.4767}
+ID-89 ;negative;{'neg': 0.153, 'neu': 0.737, 'pos': 0.111, 'compound': -0.2023}
+ID-90 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-91 ;positive;{'neg': 0.0, 'neu': 0.46, 'pos': 0.54, 'compound': 0.5719}
+ID-92 ;positive;{'neg': 0.0, 'neu': 0.339, 'pos': 0.661, 'compound': 0.5994}
+ID-93 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-94 ;negative;{'neg': 0.583, 'neu': 0.417, 'pos': 0.0, 'compound': -0.4215}
+ID-95 ;negative;{'neg': 0.512, 'neu': 0.488, 'pos': 0.0, 'compound': -0.2732}
+ID-96 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-97 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-98 ;positive;{'neg': 0.0, 'neu': 0.828, 'pos': 0.172, 'compound': 0.4404}
+ID-99 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-100 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-101 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-102 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-103 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-104 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-105 ;neutral;{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}
+ID-106 ;positive;{'neg': 0.0, 'neu': 0.64, 'pos': 0.36, 'compound': 0.5423}
+ID-107 ;positive;{'neg': 0.0, 'neu': 0.312, 'pos': 0.688, 'compound': 0.296}
+ID-108 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-109 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-110 ;positive;{'neg': 0.0, 'neu': 0.771, 'pos': 0.229, 'compound': 0.5949}
+ID-111 ;positive;{'neg': 0.0, 'neu': 0.739, 'pos': 0.261, 'compound': 0.4902}
+ID-112 ;negative;{'neg': 0.128, 'neu': 0.872, 'pos': 0.0, 'compound': -0.2263}
+ID-113 ;positive;{'neg': 0.246, 'neu': 0.351, 'pos': 0.404, 'compound': 0.2263}
+ID-114 ;negative;{'neg': 0.382, 'neu': 0.618, 'pos': 0.0, 'compound': -0.3556}
+ID-115 ;positive;{'neg': 0.0, 'neu': 0.465, 'pos': 0.535, 'compound': 0.3182}
+ID-116 ;negative;{'neg': 0.487, 'neu': 0.513, 'pos': 0.0, 'compound': -0.2263}
+ID-117 ;positive;{'neg': 0.0, 'neu': 0.726, 'pos': 0.274, 'compound': 0.34}
+ID-118 ;positive;{'neg': 0.0, 'neu': 0.874, 'pos': 0.126, 'compound': 0.0772}
+ID-119 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-120 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-121 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-122 ;positive;{'neg': 0.0, 'neu': 0.27, 'pos': 0.73, 'compound': 0.4019}
+ID-123 ;positive;{'neg': 0.0, 'neu': 0.822, 'pos': 0.178, 'compound': 0.0772}
+ID-124 ;negative;{'neg': 0.5, 'neu': 0.5, 'pos': 0.0, 'compound': -0.4588}
+ID-125 ;negative;{'neg': 0.422, 'neu': 0.459, 'pos': 0.119, 'compound': -0.6486}
+ID-126 ;positive;{'neg': 0.0, 'neu': 0.423, 'pos': 0.577, 'compound': 0.6249}
+ID-127 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-128 ;negative;{'neg': 0.193, 'neu': 0.714, 'pos': 0.093, 'compound': -0.34}
+ID-129 ;negative;{'neg': 0.196, 'neu': 0.804, 'pos': 0.0, 'compound': -0.296}
+ID-130 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-131 ;positive;{'neg': 0.0, 'neu': 0.551, 'pos': 0.449, 'compound': 0.6908}
+ID-132 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-133 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-134 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-135 ;negative;{'neg': 0.444, 'neu': 0.556, 'pos': 0.0, 'compound': -0.34}
+ID-136 ;positive;{'neg': 0.0, 'neu': 0.423, 'pos': 0.577, 'compound': 0.6249}
+ID-137 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-138 ;negative;{'neg': 0.234, 'neu': 0.766, 'pos': 0.0, 'compound': -0.0572}
+ID-139 ;negative;{'neg': 0.289, 'neu': 0.711, 'pos': 0.0, 'compound': -0.0572}
+ID-140 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-141 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-142 ;positive;{'neg': 0.0, 'neu': 0.675, 'pos': 0.325, 'compound': 0.5927}
+ID-143 ;negative;{'neg': 0.294, 'neu': 0.706, 'pos': 0.0, 'compound': -0.3612}
+ID-144 ;positive;{'neg': 0.0, 'neu': 0.545, 'pos': 0.455, 'compound': 0.3612}
+ID-145 ;negative;{'neg': 0.234, 'neu': 0.766, 'pos': 0.0, 'compound': -0.0572}
+ID-146 ;positive;{'neg': 0.0, 'neu': 0.723, 'pos': 0.277, 'compound': 0.3182}
+ID-147 ;positive;{'neg': 0.0, 'neu': 0.788, 'pos': 0.212, 'compound': 0.2235}
+ID-148 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-149 ;positive;{'neg': 0.0, 'neu': 0.652, 'pos': 0.348, 'compound': 0.4939}
+ID-150 ;negative;{'neg': 0.444, 'neu': 0.556, 'pos': 0.0, 'compound': -0.4215}
+ID-151 ;negative;{'neg': 0.512, 'neu': 0.488, 'pos': 0.0, 'compound': -0.2732}
+ID-152 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-153 ;neutral;{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}
+ID-154 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-155 ;positive;{'neg': 0.0, 'neu': 0.848, 'pos': 0.152, 'compound': 0.3612}
+ID-156 ;positive;{'neg': 0.0, 'neu': 0.563, 'pos': 0.437, 'compound': 0.4767}
+ID-157 ;negative;{'neg': 0.298, 'neu': 0.562, 'pos': 0.14, 'compound': -0.4215}
+ID-158 ;negative;{'neg': 0.512, 'neu': 0.488, 'pos': 0.0, 'compound': -0.2732}
+ID-159 ;negative;{'neg': 0.181, 'neu': 0.691, 'pos': 0.128, 'compound': -0.4588}
+ID-160 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-161 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-162;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-163;positive;{'neg': 0.0, 'neu': 0.707, 'pos': 0.293, 'compound': 0.4404}
+ID-164;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-165;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-166;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-167;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-168;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-169;positive;{'neg': 0.0, 'neu': 0.846, 'pos': 0.154, 'compound': 0.4767}
+ID-170;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-171;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-172;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-173;positive;{'neg': 0.0, 'neu': 0.844, 'pos': 0.156, 'compound': 0.34}
+ID-174;positive;{'neg': 0.0, 'neu': 0.734, 'pos': 0.266, 'compound': 0.4404}
+ID-175;negative;{'neg': 0.135, 'neu': 0.778, 'pos': 0.087, 'compound': -0.0601}
+ID-176;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-177;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-178;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-179;positive;{'neg': 0.0, 'neu': 0.881, 'pos': 0.119, 'compound': 0.2263}
+ID-180;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-181;negative;{'neg': 0.081, 'neu': 0.919, 'pos': 0.0, 'compound': -0.296}
+ID-182;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-183;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-184;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-185;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-186;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-187;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-188;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-189;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-190;negative;{'neg': 0.087, 'neu': 0.913, 'pos': 0.0, 'compound': -0.25}
+ID-191;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-192;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-193;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-375 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-376 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-377 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-378 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-379 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-380 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-381 ;positive;{'neg': 0.0, 'neu': 0.873, 'pos': 0.127, 'compound': 0.4939}
+ID-382 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-383 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-194;negative;{'neg': 0.216, 'neu': 0.784, 'pos': 0.0, 'compound': -0.296}
+ID-195;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-196;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-197;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-198;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-199;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-200;positive;{'neg': 0.0, 'neu': 0.685, 'pos': 0.315, 'compound': 0.3182}
+ID-201;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-202;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-203;negative;{'neg': 0.2, 'neu': 0.8, 'pos': 0.0, 'compound': -0.128}
+ID-204;negative;{'neg': 0.306, 'neu': 0.694, 'pos': 0.0, 'compound': -0.296}
+ID-205;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-206;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-207;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-208;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-209;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-210;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-211;negative;{'neg': 0.455, 'neu': 0.545, 'pos': 0.0, 'compound': -0.3612}
+ID-212;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-213;negative;{'neg': 0.244, 'neu': 0.756, 'pos': 0.0, 'compound': -0.6705}
+ID-214;negative;{'neg': 0.245, 'neu': 0.755, 'pos': 0.0, 'compound': -0.5994}
+ID-215;positive;{'neg': 0.0, 'neu': 0.872, 'pos': 0.128, 'compound': 0.3612}
+ID-216;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-217;negative;{'neg': 0.486, 'neu': 0.514, 'pos': 0.0, 'compound': -0.4278}
+ID-218;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-219;positive;{'neg': 0.0, 'neu': 0.88, 'pos': 0.12, 'compound': 0.5473}
+ID-220;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-221;negative;{'neg': 0.143, 'neu': 0.857, 'pos': 0.0, 'compound': -0.4588}
+ID-222;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-223;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-224;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-225;negative;{'neg': 0.486, 'neu': 0.514, 'pos': 0.0, 'compound': -0.4278}
+ID-226;positive;{'neg': 0.159, 'neu': 0.604, 'pos': 0.237, 'compound': 0.3182}
+ID-227;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-228;positive;{'neg': 0.0, 'neu': 0.588, 'pos': 0.412, 'compound': 0.6369}
+ID-229;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-230;positive;{'neg': 0.0, 'neu': 0.815, 'pos': 0.185, 'compound': 0.3612}
+ID-231;negative;{'neg': 0.076, 'neu': 0.924, 'pos': 0.0, 'compound': -0.2263}
+ID-232;positive;{'neg': 0.156, 'neu': 0.615, 'pos': 0.229, 'compound': 0.3182}
+ID-233;negative;{'neg': 0.524, 'neu': 0.476, 'pos': 0.0, 'compound': -0.6705}
+ID-234;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-235;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-236;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-237;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-384;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-385;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-386;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-387;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-388;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-389;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-390;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-391;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-392;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-393;positive;{'neg': 0.0, 'neu': 0.625, 'pos': 0.375, 'compound': 0.34}
+ID-394;positive;{'neg': 0.136, 'neu': 0.714, 'pos': 0.149, 'compound': 0.0516}
+ID-395;positive;{'neg': 0.161, 'neu': 0.438, 'pos': 0.401, 'compound': 0.5106}
+ID-396;negative;{'neg': 0.486, 'neu': 0.514, 'pos': 0.0, 'compound': -0.4278}
+ID-397;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-398;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-399;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-400;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-401;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-402;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-403;negative;{'neg': 0.486, 'neu': 0.514, 'pos': 0.0, 'compound': -0.4278}
+ID-404;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-405;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-406;negative;{'neg': 0.176, 'neu': 0.749, 'pos': 0.075, 'compound': -0.5994}
+ID-407;negative;{'neg': 0.486, 'neu': 0.514, 'pos': 0.0, 'compound': -0.4278}
+ID-408;positive;{'neg': 0.0, 'neu': 0.902, 'pos': 0.098, 'compound': 0.6124}
+ID-409;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-410;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-411;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-412;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-413;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-414;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-415;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-416;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-417;negative;{'neg': 0.186, 'neu': 0.814, 'pos': 0.0, 'compound': -0.6166}
+ID-418;negative;{'neg': 0.121, 'neu': 0.879, 'pos': 0.0, 'compound': -0.296}
+ID-419;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-420;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-421;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-422;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-423;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-424;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-425;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-426;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-427;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-428;positive;{'neg': 0.0, 'neu': 0.753, 'pos': 0.247, 'compound': 0.3182}
+ID-429;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-430;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-431;negative;{'neg': 0.126, 'neu': 0.874, 'pos': 0.0, 'compound': -0.0772}
+ID-432;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-433;positive;{'neg': 0.0, 'neu': 0.747, 'pos': 0.253, 'compound': 0.2584}
+ID-434;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-435;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-436;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-437;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-438;negative;{'neg': 0.688, 'neu': 0.312, 'pos': 0.0, 'compound': -0.296}
+ID-439;negative;{'neg': 0.565, 'neu': 0.435, 'pos': 0.0, 'compound': -0.0772}
+ID-440;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-441;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-442;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-443;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-444;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-445;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-446;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-447;negative;{'neg': 0.44, 'neu': 0.2, 'pos': 0.36, 'compound': -0.1027}
+ID-448;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-449;positive;{'neg': 0.0, 'neu': 0.704, 'pos': 0.296, 'compound': 0.2732}
+ID-450;positive;{'neg': 0.21, 'neu': 0.571, 'pos': 0.219, 'compound': 0.0258}
+ID-451;positive;{'neg': 0.0, 'neu': 0.614, 'pos': 0.386, 'compound': 0.8834}
+ID-452;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-453;negative;{'neg': 0.18, 'neu': 0.82, 'pos': 0.0, 'compound': -0.296}
+ID-454;positive;{'neg': 0.0, 'neu': 0.333, 'pos': 0.667, 'compound': 0.25}
+ID-455;positive;{'neg': 0.0, 'neu': 0.27, 'pos': 0.73, 'compound': 0.4019}
+ID-456;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-457;positive;{'neg': 0.0, 'neu': 0.652, 'pos': 0.348, 'compound': 0.1531}
+ID-458;negative;{'neg': 0.313, 'neu': 0.687, 'pos': 0.0, 'compound': -0.4767}
+ID-459;negative;{'neg': 0.586, 'neu': 0.414, 'pos': 0.0, 'compound': -0.4278}
+ID-460;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-461;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-462;positive;{'neg': 0.0, 'neu': 0.792, 'pos': 0.208, 'compound': 0.2732}
+ID-463;negative;{'neg': 0.151, 'neu': 0.849, 'pos': 0.0, 'compound': -0.1531}
+ID-464;negative;{'neg': 0.231, 'neu': 0.769, 'pos': 0.0, 'compound': -0.4019}
+ID-465;positive;{'neg': 0.21, 'neu': 0.381, 'pos': 0.41, 'compound': 0.4767}
+ID-466;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-467;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-468;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-469;negative;{'neg': 0.321, 'neu': 0.679, 'pos': 0.0, 'compound': -0.4278}
+ID-470;negative;{'neg': 0.167, 'neu': 0.833, 'pos': 0.0, 'compound': -0.296}
+ID-471;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-472;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-473;positive;{'neg': 0.0, 'neu': 0.5, 'pos': 0.5, 'compound': 0.25}
+ID-474;positive;{'neg': 0.0, 'neu': 0.256, 'pos': 0.744, 'compound': 0.4404}
+ID-475;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-476;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-477;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-478;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-479;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-480;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-481;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-482;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-483;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-484;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-485;negative;{'neg': 0.078, 'neu': 0.922, 'pos': 0.0, 'compound': -0.1531}
+ID-486;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-487;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-488;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-489;positive;{'neg': 0.259, 'neu': 0.37, 'pos': 0.37, 'compound': 0.1531}
+ID-490;positive;{'neg': 0.0, 'neu': 0.732, 'pos': 0.268, 'compound': 0.0258}
+ID-491;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-492;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-493;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-494;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-495;positive;{'neg': 0.0, 'neu': 0.643, 'pos': 0.357, 'compound': 0.5157}
+ID-496;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-497;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-498;positive;{'neg': 0.0, 'neu': 0.682, 'pos': 0.318, 'compound': 0.1027}
+ID-499;positive;{'neg': 0.168, 'neu': 0.611, 'pos': 0.221, 'compound': 0.1779}
+ID-500;negative;{'neg': 0.166, 'neu': 0.834, 'pos': 0.0, 'compound': -0.1511}
+ID-501;negative;{'neg': 0.187, 'neu': 0.813, 'pos': 0.0, 'compound': -0.4404}
+ID-502;negative;{'neg': 0.217, 'neu': 0.645, 'pos': 0.138, 'compound': -0.2144}
+ID-503;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-504;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-505;positive;{'neg': 0.0, 'neu': 0.678, 'pos': 0.322, 'compound': 0.2263}
+ID-506;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-507;negative;{'neg': 0.205, 'neu': 0.795, 'pos': 0.0, 'compound': -0.3774}
+ID-508;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-509;negative;{'neg': 0.423, 'neu': 0.577, 'pos': 0.0, 'compound': -0.296}
+ID-510;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-511;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-512;negative;{'neg': 0.355, 'neu': 0.645, 'pos': 0.0, 'compound': -0.296}
+ID-513;positive;{'neg': 0.0, 'neu': 0.861, 'pos': 0.139, 'compound': 0.2732}
+ID-514;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-515;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-516;positive;{'neg': 0.0, 'neu': 0.819, 'pos': 0.181, 'compound': 0.2723}
+ID-517;positive;{'neg': 0.0, 'neu': 0.784, 'pos': 0.216, 'compound': 0.5106}
+ID-518;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-519;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-520;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-521;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-522;negative;{'neg': 0.486, 'neu': 0.514, 'pos': 0.0, 'compound': -0.4278}
+ID-524;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-238 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-239 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-240 ;negative;{'neg': 0.269, 'neu': 0.667, 'pos': 0.064, 'compound': -0.8271}
+ID-241 ;negative;{'neg': 0.216, 'neu': 0.659, 'pos': 0.126, 'compound': -0.6124}
+ID-242 ;negative;{'neg': 0.179, 'neu': 0.821, 'pos': 0.0, 'compound': -0.4278}
+ID-243 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-244 ;positive;{'neg': 0.0, 'neu': 0.654, 'pos': 0.346, 'compound': 0.7506}
+ID-245 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-246 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-247 ;negative;{'neg': 0.144, 'neu': 0.72, 'pos': 0.136, 'compound': -0.0772}
+ID-248 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-249 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-250 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-251 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-252 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-253 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-254 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-255 ;negative;{'neg': 0.136, 'neu': 0.792, 'pos': 0.072, 'compound': -0.1779}
+ID-256 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-257 ;positive;{'neg': 0.081, 'neu': 0.785, 'pos': 0.134, 'compound': 0.2577}
+ID-258 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-259 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-260 ;negative;{'neg': 0.363, 'neu': 0.637, 'pos': 0.0, 'compound': -0.6908}
+ID-261 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-262 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-263 ;negative;{'neg': 0.194, 'neu': 0.806, 'pos': 0.0, 'compound': -0.6249}
+ID-264 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-265 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-266 ;negative;{'neg': 0.54, 'neu': 0.46, 'pos': 0.0, 'compound': -0.6908}
+ID-267 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-268 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-269 ;negative;{'neg': 0.306, 'neu': 0.463, 'pos': 0.231, 'compound': -0.2023}
+ID-270 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-271 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-272 ;negative;{'neg': 0.211, 'neu': 0.789, 'pos': 0.0, 'compound': -0.5766}
+ID-273 ;negative;{'neg': 0.668, 'neu': 0.332, 'pos': 0.0, 'compound': -0.6155}
+ID-274 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-275 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-276 ;negative;{'neg': 0.268, 'neu': 0.732, 'pos': 0.0, 'compound': -0.296}
+ID-277 ;negative;{'neg': 0.254, 'neu': 0.746, 'pos': 0.0, 'compound': -0.5267}
+ID-278 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-279 ;negative;{'neg': 0.143, 'neu': 0.759, 'pos': 0.097, 'compound': -0.1406}
+ID-280 ;positive;{'neg': 0.0, 'neu': 0.61, 'pos': 0.39, 'compound': 0.4939}
+ID-281 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-282 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-283 ;negative;{'neg': 0.266, 'neu': 0.734, 'pos': 0.0, 'compound': -0.6908}
+ID-284 ;positive;{'neg': 0.337, 'neu': 0.351, 'pos': 0.313, 'compound': 0.0976}
+ID-285 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-286 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-287 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-288 ;positive;{'neg': 0.0, 'neu': 0.844, 'pos': 0.156, 'compound': 0.34}
+ID-289 ;positive;{'neg': 0.0, 'neu': 0.726, 'pos': 0.274, 'compound': 0.5994}
+ID-290 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-291 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-292 ;negative;{'neg': 0.151, 'neu': 0.849, 'pos': 0.0, 'compound': -0.5994}
+ID-293 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-294 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-295 ;positive;{'neg': 0.0, 'neu': 0.683, 'pos': 0.317, 'compound': 0.8893}
+ID-296 ;positive;{'neg': 0.22, 'neu': 0.549, 'pos': 0.232, 'compound': 0.0284}
+ID-297 ;negative;{'neg': 0.27, 'neu': 0.73, 'pos': 0.0, 'compound': -0.8934}
+ID-298 ;positive;{'neg': 0.0, 'neu': 0.574, 'pos': 0.426, 'compound': 0.5365}
+ID-299 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-300 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-301 ;negative;{'neg': 0.464, 'neu': 0.536, 'pos': 0.0, 'compound': -0.3818}
+ID-302 ;negative;{'neg': 0.236, 'neu': 0.637, 'pos': 0.127, 'compound': -0.4021}
+ID-303 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-304 ;neutral;{'neg': 0.081, 'neu': 0.838, 'pos': 0.081, 'compound': 0.0}
+ID-305 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-306 ;positive;{'neg': 0.0, 'neu': 0.862, 'pos': 0.138, 'compound': 0.4939}
+ID-307 ;positive;{'neg': 0.0, 'neu': 0.916, 'pos': 0.084, 'compound': 0.3182}
+ID-308 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-309 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-310 ;negative;{'neg': 0.13, 'neu': 0.87, 'pos': 0.0, 'compound': -0.5423}
+ID-311 ;positive;{'neg': 0.0, 'neu': 0.784, 'pos': 0.216, 'compound': 0.5106}
+ID-312 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-313 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-314 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-315 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-316 ;positive;{'neg': 0.0, 'neu': 0.729, 'pos': 0.271, 'compound': 0.3818}
+ID-317 ;positive;{'neg': 0.0, 'neu': 0.856, 'pos': 0.144, 'compound': 0.368}
+ID-318 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-319 ;negative;{'neg': 0.318, 'neu': 0.682, 'pos': 0.0, 'compound': -0.1027}
+ID-320 ;positive;{'neg': 0.0, 'neu': 0.898, 'pos': 0.102, 'compound': 0.3818}
+ID-321 ;positive;{'neg': 0.0, 'neu': 0.959, 'pos': 0.041, 'compound': 0.0516}
+ID-322 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-323 ;negative;{'neg': 0.486, 'neu': 0.514, 'pos': 0.0, 'compound': -0.4278}
+ID-324 ;positive;{'neg': 0.0, 'neu': 0.843, 'pos': 0.157, 'compound': 0.3818}
+ID-325 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-326 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-327 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-328 ;negative;{'neg': 0.677, 'neu': 0.323, 'pos': 0.0, 'compound': -0.2732}
+ID-329 ;negative;{'neg': 0.257, 'neu': 0.743, 'pos': 0.0, 'compound': -0.6369}
+ID-330 ;negative;{'neg': 0.586, 'neu': 0.414, 'pos': 0.0, 'compound': -0.4278}
+ID-331 ;neutral;{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}
+ID-332 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-333 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-334 ;negative;{'neg': 0.159, 'neu': 0.841, 'pos': 0.0, 'compound': -0.4278}
+ID-335 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-336 ;negative;{'neg': 0.321, 'neu': 0.679, 'pos': 0.0, 'compound': -0.6874}
+ID-337 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-338 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-339 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-340 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-341 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-342 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-343 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-344 ;positive;{'neg': 0.0, 'neu': 0.588, 'pos': 0.412, 'compound': 0.4215}
+ID-345 ;negative;{'neg': 0.091, 'neu': 0.909, 'pos': 0.0, 'compound': -0.34}
+ID-346 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-347 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-348 ;negative;{'neg': 0.13, 'neu': 0.87, 'pos': 0.0, 'compound': -0.4278}
+ID-349 ;negative;{'neg': 0.125, 'neu': 0.875, 'pos': 0.0, 'compound': -0.25}
+ID-350 ;negative;{'neg': 0.111, 'neu': 0.889, 'pos': 0.0, 'compound': -0.25}
+ID-351 ;negative;{'neg': 0.512, 'neu': 0.488, 'pos': 0.0, 'compound': -0.2732}
+ID-352 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-353 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-354 ;negative;{'neg': 0.586, 'neu': 0.414, 'pos': 0.0, 'compound': -0.4278}
+ID-355 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-356 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-357 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-358 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-359 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-360 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-361 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-362 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-363 ;positive;{'neg': 0.0, 'neu': 0.5, 'pos': 0.5, 'compound': 0.4588}
+ID-364 ;positive;{'neg': 0.0, 'neu': 0.833, 'pos': 0.167, 'compound': 0.0516}
+ID-365 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-366 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-367 ;negative;{'neg': 0.139, 'neu': 0.861, 'pos': 0.0, 'compound': -0.5006}
+ID-368 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-369 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-370 ;positive;{'neg': 0.0, 'neu': 0.884, 'pos': 0.116, 'compound': 0.2732}
+ID-371 ;negative;{'neg': 0.412, 'neu': 0.588, 'pos': 0.0, 'compound': -0.2732}
+ID-372 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-373 ;negative;{'neg': 0.486, 'neu': 0.514, 'pos': 0.0, 'compound': -0.4278}
+ID-374 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-655 ;negative;{'neg': 0.104, 'neu': 0.896, 'pos': 0.0, 'compound': -0.296}
+ID-656 ;negative;{'neg': 0.212, 'neu': 0.684, 'pos': 0.104, 'compound': -0.4579}
+ID-657 ;positive;{'neg': 0.0, 'neu': 0.642, 'pos': 0.358, 'compound': 0.5994}
+ID-658 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-659 ;positive;{'neg': 0.0, 'neu': 0.932, 'pos': 0.068, 'compound': 0.2732}
+ID-660 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-661 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-662 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-663 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-664 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-665 ;positive;{'neg': 0.0, 'neu': 0.855, 'pos': 0.145, 'compound': 0.5267}
+ID-666 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-667 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-668 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-669 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-670 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-671 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-672 ;positive;{'neg': 0.0, 'neu': 0.588, 'pos': 0.412, 'compound': 0.4215}
+ID-673 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-674 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-675 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-676 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-677 ;negative;{'neg': 0.434, 'neu': 0.241, 'pos': 0.325, 'compound': -0.2263}
+ID-678 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-679 ;positive;{'neg': 0.0, 'neu': 0.814, 'pos': 0.186, 'compound': 0.4939}
+ID-680 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-681 ;positive;{'neg': 0.0, 'neu': 0.588, 'pos': 0.412, 'compound': 0.743}
+ID-682 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-683 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-684 ;positive;{'neg': 0.0, 'neu': 0.703, 'pos': 0.297, 'compound': 0.5859}
+ID-685 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-686 ;positive;{'neg': 0.056, 'neu': 0.757, 'pos': 0.187, 'compound': 0.765}
+ID-687 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-688 ;negative;{'neg': 0.486, 'neu': 0.514, 'pos': 0.0, 'compound': -0.4278}
+ID-689 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-690 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-691 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-692 ;positive;{'neg': 0.0, 'neu': 0.145, 'pos': 0.855, 'compound': 0.7096}
+ID-693 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-694 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-695 ;positive;{'neg': 0.0, 'neu': 0.766, 'pos': 0.234, 'compound': 0.6369}
+ID-696 ;negative;{'neg': 0.179, 'neu': 0.821, 'pos': 0.0, 'compound': -0.34}
+ID-697 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-698 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-699 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-700 ;positive;{'neg': 0.0, 'neu': 0.333, 'pos': 0.667, 'compound': 0.25}
+ID-701 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-702 ;positive;{'neg': 0.0, 'neu': 0.408, 'pos': 0.592, 'compound': 0.4404}
+ID-703 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-704 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-705 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-706 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-707 ;neutral;{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}
+ID-708 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-709 ;neutral;{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}
+ID-710 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-711 ;neutral;{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}
+ID-712 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-713 ;neutral;{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}
+ID-714 ;positive;{'neg': 0.179, 'neu': 0.597, 'pos': 0.223, 'compound': 0.1513}
+ID-715 ;neutral;{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}
+ID-716 ;positive;{'neg': 0.0, 'neu': 0.789, 'pos': 0.211, 'compound': 0.34}
+ID-717 ;neutral;{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}
+ID-718 ;positive;{'neg': 0.0, 'neu': 0.805, 'pos': 0.195, 'compound': 0.4404}
+ID-719 ;neutral;{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}
+ID-720 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-721 ;negative;{'neg': 0.486, 'neu': 0.514, 'pos': 0.0, 'compound': -0.4278}
+ID-722 ;positive;{'neg': 0.0, 'neu': 0.797, 'pos': 0.203, 'compound': 0.4215}
+ID-723 ;negative;{'neg': 0.298, 'neu': 0.702, 'pos': 0.0, 'compound': -0.5267}
+ID-724 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-725 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-726 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-727 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-728 ;positive;{'neg': 0.0, 'neu': 0.476, 'pos': 0.524, 'compound': 0.296}
+ID-729 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-730 ;positive;{'neg': 0.0, 'neu': 0.828, 'pos': 0.172, 'compound': 0.3612}
+ID-731 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-732 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-733 ;positive;{'neg': 0.0, 'neu': 0.652, 'pos': 0.348, 'compound': 0.4939}
+ID-734 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-523;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-525;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-526;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-527;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-528;positive;{'neg': 0.07, 'neu': 0.812, 'pos': 0.118, 'compound': 0.3182}
+ID-529;negative;{'neg': 0.127, 'neu': 0.873, 'pos': 0.0, 'compound': -0.4404}
+ID-530;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-531;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-532;positive;{'neg': 0.0, 'neu': 0.9, 'pos': 0.1, 'compound': 0.4767}
+ID-533 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-534 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-535 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-536 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-537 ;positive;{'neg': 0.0, 'neu': 0.625, 'pos': 0.375, 'compound': 0.6369}
+ID-538 ;positive;{'neg': 0.0, 'neu': 0.737, 'pos': 0.263, 'compound': 0.3612}
+ID-539 ;negative;{'neg': 0.163, 'neu': 0.837, 'pos': 0.0, 'compound': -0.6486}
+ID-540 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-541 ;positive;{'neg': 0.081, 'neu': 0.795, 'pos': 0.123, 'compound': 0.296}
+ID-542 ;positive;{'neg': 0.0, 'neu': 0.887, 'pos': 0.113, 'compound': 0.0382}
+ID-543 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-544 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-545 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-546 ;positive;{'neg': 0.0, 'neu': 0.902, 'pos': 0.098, 'compound': 0.0516}
+ID-547 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-548 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-549 ;negative;{'neg': 0.179, 'neu': 0.821, 'pos': 0.0, 'compound': -0.34}
+ID-550 ;negative;{'neg': 0.237, 'neu': 0.763, 'pos': 0.0, 'compound': -0.4767}
+ID-551 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-552 ;positive;{'neg': 0.0, 'neu': 0.513, 'pos': 0.487, 'compound': 0.2263}
+ID-553 ;positive;{'neg': 0.291, 'neu': 0.182, 'pos': 0.527, 'compound': 0.3182}
+ID-554 ;negative;{'neg': 0.14, 'neu': 0.86, 'pos': 0.0, 'compound': -0.079}
+ID-555 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-556 ;positive;{'neg': 0.0, 'neu': 0.881, 'pos': 0.119, 'compound': 0.4019}
+ID-557 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-558 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-559 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-561 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-562 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-563 ;positive;{'neg': 0.0, 'neu': 0.694, 'pos': 0.306, 'compound': 0.296}
+ID-564 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-565 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-566 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-567 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-568 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-569 ;negative;{'neg': 0.251, 'neu': 0.749, 'pos': 0.0, 'compound': -0.3291}
+ID-570 ;negative;{'neg': 0.179, 'neu': 0.821, 'pos': 0.0, 'compound': -0.34}
+ID-571 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-572 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-573 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-574 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-575 ;positive;{'neg': 0.0, 'neu': 0.556, 'pos': 0.444, 'compound': 0.34}
+ID-576 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-577 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-578 ;negative;{'neg': 0.452, 'neu': 0.548, 'pos': 0.0, 'compound': -0.5106}
+ID-579 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-580 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-581 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-582 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-583 ;positive;{'neg': 0.0, 'neu': 0.728, 'pos': 0.272, 'compound': 0.5777}
+ID-584 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-585 ;positive;{'neg': 0.0, 'neu': 0.7, 'pos': 0.3, 'compound': 0.4588}
+ID-586 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-587 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-588 ;negative;{'neg': 0.486, 'neu': 0.514, 'pos': 0.0, 'compound': -0.4278}
+ID-589 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-590 ;negative;{'neg': 0.322, 'neu': 0.678, 'pos': 0.0, 'compound': -0.2263}
+ID-591 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-592 ;positive;{'neg': 0.0, 'neu': 0.839, 'pos': 0.161, 'compound': 0.3612}
+ID-593 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-594 ;positive;{'neg': 0.0, 'neu': 0.494, 'pos': 0.506, 'compound': 0.6249}
+ID-595 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-596 ;positive;{'neg': 0.0, 'neu': 0.414, 'pos': 0.586, 'compound': 0.7947}
+ID-597 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-598 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-599 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-600 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-601 ;positive;{'neg': 0.0, 'neu': 0.4, 'pos': 0.6, 'compound': 0.4588}
+ID-602 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-603 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-604 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-605 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-606 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-607 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-608 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-609 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-610 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-611 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-612 ;positive;{'neg': 0.0, 'neu': 0.822, 'pos': 0.178, 'compound': 0.0772}
+ID-613 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-614 ;negative;{'neg': 0.318, 'neu': 0.682, 'pos': 0.0, 'compound': -0.1027}
+ID-615 ;negative;{'neg': 0.28, 'neu': 0.587, 'pos': 0.134, 'compound': -0.2482}
+ID-616 ;positive;{'neg': 0.0, 'neu': 0.852, 'pos': 0.148, 'compound': 0.2382}
+ID-617 ;positive;{'neg': 0.0, 'neu': 0.915, 'pos': 0.085, 'compound': 0.0772}
+ID-618 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-619 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-620 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-621 ;positive;{'neg': 0.0, 'neu': 0.319, 'pos': 0.681, 'compound': 0.7506}
+ID-622 ;positive;{'neg': 0.0, 'neu': 0.303, 'pos': 0.697, 'compound': 0.3182}
+ID-623 ;positive;{'neg': 0.0, 'neu': 0.303, 'pos': 0.697, 'compound': 0.3182}
+ID-624 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-625 ;positive;{'neg': 0.0, 'neu': 0.667, 'pos': 0.333, 'compound': 0.7579}
+ID-626 ;negative;{'neg': 0.396, 'neu': 0.33, 'pos': 0.275, 'compound': -0.2732}
+ID-627 ;positive;{'neg': 0.0, 'neu': 0.566, 'pos': 0.434, 'compound': 0.3182}
+ID-628 ;positive;{'neg': 0.0, 'neu': 0.357, 'pos': 0.643, 'compound': 0.5574}
+ID-629 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-630 ;negative;{'neg': 0.486, 'neu': 0.514, 'pos': 0.0, 'compound': -0.4278}
+ID-631 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-632 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-633 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-634 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-635 ;negative;{'neg': 0.058, 'neu': 0.942, 'pos': 0.0, 'compound': -0.34}
+ID-636 ;positive;{'neg': 0.0, 'neu': 0.658, 'pos': 0.342, 'compound': 0.3818}
+ID-637 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-638 ;positive;{'neg': 0.0, 'neu': 0.686, 'pos': 0.314, 'compound': 0.4939}
+ID-639 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-640 ;negative;{'neg': 0.486, 'neu': 0.514, 'pos': 0.0, 'compound': -0.4278}
+ID-641 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-642 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-643 ;negative;{'neg': 0.167, 'neu': 0.833, 'pos': 0.0, 'compound': -0.3412}
+ID-644 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-645 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-646 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-647 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-648 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-649 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-650 ;positive;{'neg': 0.118, 'neu': 0.706, 'pos': 0.176, 'compound': 0.25}
+ID-651 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-652 ;positive;{'neg': 0.221, 'neu': 0.477, 'pos': 0.302, 'compound': 0.0457}
+ID-653 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-654 ;positive;{'neg': 0.113, 'neu': 0.559, 'pos': 0.329, 'compound': 0.5402}
+ID-735 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-736 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-737 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-738 ;positive;{'neg': 0.0, 'neu': 0.645, 'pos': 0.355, 'compound': 0.296}
+ID-739 ;positive;{'neg': 0.0, 'neu': 0.648, 'pos': 0.352, 'compound': 0.5187}
+ID-740 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-741 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-742 ;negative;{'neg': 0.333, 'neu': 0.667, 'pos': 0.0, 'compound': -0.4588}
+ID-743 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-744 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-745 ;positive;{'neg': 0.0, 'neu': 0.928, 'pos': 0.072, 'compound': 0.3612}
+ID-746 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-747 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-748 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-749 ;positive;{'neg': 0.0, 'neu': 0.476, 'pos': 0.524, 'compound': 0.296}
+ID-750 ;positive;{'neg': 0.0, 'neu': 0.61, 'pos': 0.39, 'compound': 0.4939}
+ID-751 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-752 ;positive;{'neg': 0.0, 'neu': 0.566, 'pos': 0.434, 'compound': 0.3182}
+ID-753 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-754 ;positive;{'neg': 0.08, 'neu': 0.803, 'pos': 0.117, 'compound': 0.162}
+ID-755 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-756 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-757 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-758 ;positive;{'neg': 0.0, 'neu': 0.526, 'pos': 0.474, 'compound': 0.5574}
+ID-759 ;positive;{'neg': 0.0, 'neu': 0.508, 'pos': 0.492, 'compound': 0.4404}
+ID-760 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-761 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-762 ;positive;{'neg': 0.193, 'neu': 0.568, 'pos': 0.239, 'compound': 0.1027}
+ID-763 ;positive;{'neg': 0.0, 'neu': 0.847, 'pos': 0.153, 'compound': 0.4019}
+ID-764 ;positive;{'neg': 0.0, 'neu': 0.649, 'pos': 0.351, 'compound': 0.6597}
+ID-560 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-868;negative;{'neg': 0.187, 'neu': 0.813, 'pos': 0.0, 'compound': -0.3182}
+ID-869;positive;{'neg': 0.0, 'neu': 0.777, 'pos': 0.223, 'compound': 0.3182}
+ID-870;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-871;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-872;negative;{'neg': 0.169, 'neu': 0.831, 'pos': 0.0, 'compound': -0.3919}
+ID-873;negative;{'neg': 0.289, 'neu': 0.711, 'pos': 0.0, 'compound': -0.6908}
+ID-874;negative;{'neg': 0.209, 'neu': 0.731, 'pos': 0.06, 'compound': -0.5927}
+ID-875;negative;{'neg': 0.211, 'neu': 0.789, 'pos': 0.0, 'compound': -0.1531}
+ID-876;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-877;negative;{'neg': 0.439, 'neu': 0.561, 'pos': 0.0, 'compound': -0.91}
+ID-878;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-879;positive;{'neg': 0.0, 'neu': 0.568, 'pos': 0.432, 'compound': 0.5859}
+ID-880;negative;{'neg': 0.597, 'neu': 0.403, 'pos': 0.0, 'compound': -0.8126}
+ID-881;negative;{'neg': 0.268, 'neu': 0.732, 'pos': 0.0, 'compound': -0.5267}
+ID-882;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-883;negative;{'neg': 0.179, 'neu': 0.821, 'pos': 0.0, 'compound': -0.4278}
+ID-884;positive;{'neg': 0.0, 'neu': 0.878, 'pos': 0.122, 'compound': 0.3612}
+ID-885;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-886;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-887;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-888;negative;{'neg': 0.298, 'neu': 0.702, 'pos': 0.0, 'compound': -0.1779}
+ID-889;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-890;positive;{'neg': 0.0, 'neu': 0.898, 'pos': 0.102, 'compound': 0.3612}
+ID-891;positive;{'neg': 0.0, 'neu': 0.455, 'pos': 0.545, 'compound': 0.5574}
+ID-892;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-893;negative;{'neg': 0.249, 'neu': 0.751, 'pos': 0.0, 'compound': -0.5106}
+ID-894;negative;{'neg': 0.337, 'neu': 0.663, 'pos': 0.0, 'compound': -0.47}
+ID-895;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-896;positive;{'neg': 0.127, 'neu': 0.623, 'pos': 0.25, 'compound': 0.2924}
+ID-897;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-898;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-899;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-900;negative;{'neg': 0.214, 'neu': 0.583, 'pos': 0.204, 'compound': -0.0258}
+ID-901;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-902;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-903;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-904;negative;{'neg': 0.159, 'neu': 0.841, 'pos': 0.0, 'compound': -0.4278}
+ID-905;negative;{'neg': 0.078, 'neu': 0.922, 'pos': 0.0, 'compound': -0.296}
+ID-906;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-907;positive;{'neg': 0.133, 'neu': 0.727, 'pos': 0.139, 'compound': 0.0258}
+ID-908;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-909;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-765 ;positive;{'neg': 0.0, 'neu': 0.784, 'pos': 0.216, 'compound': 0.296}
+ID-766 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-767 ;negative;{'neg': 0.194, 'neu': 0.806, 'pos': 0.0, 'compound': -0.34}
+ID-768 ;positive;{'neg': 0.0, 'neu': 0.755, 'pos': 0.245, 'compound': 0.0772}
+ID-769 ;positive;{'neg': 0.0, 'neu': 0.581, 'pos': 0.419, 'compound': 0.7579}
+ID-770 ;positive;{'neg': 0.0, 'neu': 0.448, 'pos': 0.552, 'compound': 0.5719}
+ID-771 ;positive;{'neg': 0.0, 'neu': 0.714, 'pos': 0.286, 'compound': 0.3412}
+ID-772 ;negative;{'neg': 0.486, 'neu': 0.514, 'pos': 0.0, 'compound': -0.4278}
+ID-773 ;negative;{'neg': 0.36, 'neu': 0.64, 'pos': 0.0, 'compound': -0.5423}
+ID-774 ;positive;{'neg': 0.0, 'neu': 0.898, 'pos': 0.102, 'compound': 0.6369}
+ID-775 ;positive;{'neg': 0.058, 'neu': 0.68, 'pos': 0.262, 'compound': 0.6369}
+ID-776 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-777 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-778 ;negative;{'neg': 0.486, 'neu': 0.514, 'pos': 0.0, 'compound': -0.4278}
+ID-779 ;positive;{'neg': 0.0, 'neu': 0.93, 'pos': 0.07, 'compound': 0.0516}
+ID-780 ;negative;{'neg': 0.358, 'neu': 0.642, 'pos': 0.0, 'compound': -0.5994}
+ID-781 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-782 ;negative;{'neg': 0.237, 'neu': 0.763, 'pos': 0.0, 'compound': -0.4215}
+ID-783 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-784 ;positive;{'neg': 0.0, 'neu': 0.867, 'pos': 0.133, 'compound': 0.3182}
+ID-785 ;positive;{'neg': 0.0, 'neu': 0.835, 'pos': 0.165, 'compound': 0.6541}
+ID-786 ;negative;{'neg': 0.367, 'neu': 0.633, 'pos': 0.0, 'compound': -0.4404}
+ID-787 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-788 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-789 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-790 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-791 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-792 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-793 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-794 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-795 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-796 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-797 ;neutral;{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}
+ID-798 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-799 ;neutral;{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}
+ID-800 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-801 ;neutral;{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}
+ID-802 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-803 ;neutral;{'neg': 0.0, 'neu': 0.0, 'pos': 0.0, 'compound': 0.0}
+ID-804 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-805 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-806 ;negative;{'neg': 0.203, 'neu': 0.797, 'pos': 0.0, 'compound': -0.6523}
+ID-807 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-808 ;negative;{'neg': 0.075, 'neu': 0.925, 'pos': 0.0, 'compound': -0.4588}
+ID-809 ;negative;{'neg': 0.167, 'neu': 0.833, 'pos': 0.0, 'compound': -0.296}
+ID-810 ;negative;{'neg': 0.296, 'neu': 0.704, 'pos': 0.0, 'compound': -0.4497}
+ID-811 ;negative;{'neg': 0.057, 'neu': 0.943, 'pos': 0.0, 'compound': -0.0516}
+ID-812 ;positive;{'neg': 0.0, 'neu': 0.898, 'pos': 0.102, 'compound': 0.3612}
+ID-813 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-814 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-815 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-816 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-817 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-818 ;negative;{'neg': 0.147, 'neu': 0.853, 'pos': 0.0, 'compound': -0.4767}
+ID-819 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-820 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-821 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-822 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-823 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-824 ;positive;{'neg': 0.0, 'neu': 0.791, 'pos': 0.209, 'compound': 0.7003}
+ID-825 ;positive;{'neg': 0.0, 'neu': 0.633, 'pos': 0.367, 'compound': 0.4404}
+ID-826 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-827 ;positive;{'neg': 0.04, 'neu': 0.794, 'pos': 0.166, 'compound': 0.6018}
+ID-828 ;negative;{'neg': 0.134, 'neu': 0.763, 'pos': 0.103, 'compound': -0.2023}
+ID-829 ;negative;{'neg': 0.15, 'neu': 0.726, 'pos': 0.124, 'compound': -0.1531}
+ID-830 ;positive;{'neg': 0.141, 'neu': 0.704, 'pos': 0.155, 'compound': 0.0772}
+ID-831 ;positive;{'neg': 0.0, 'neu': 0.674, 'pos': 0.326, 'compound': 0.4404}
+ID-832 ;positive;{'neg': 0.1, 'neu': 0.569, 'pos': 0.332, 'compound': 0.7096}
+ID-833 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-834 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-835 ;positive;{'neg': 0.0, 'neu': 0.421, 'pos': 0.579, 'compound': 0.6705}
+ID-836 ;positive;{'neg': 0.0, 'neu': 0.726, 'pos': 0.274, 'compound': 0.7506}
+ID-837 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-838 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-839 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-840 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-841 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-842 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-843 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-844 ;negative;{'neg': 0.275, 'neu': 0.725, 'pos': 0.0, 'compound': -0.2263}
+ID-845 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-846 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-847 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-848 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-849 ;positive;{'neg': 0.0, 'neu': 0.87, 'pos': 0.13, 'compound': 0.4019}
+ID-850 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-851 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-852 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-853 ;positive;{'neg': 0.0, 'neu': 0.807, 'pos': 0.193, 'compound': 0.4767}
+ID-854 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-855 ;negative;{'neg': 0.159, 'neu': 0.841, 'pos': 0.0, 'compound': -0.4278}
+ID-856 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-857 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-858 ;negative;{'neg': 0.159, 'neu': 0.769, 'pos': 0.072, 'compound': -0.4019}
+ID-859 ;negative;{'neg': 0.28, 'neu': 0.72, 'pos': 0.0, 'compound': -0.5423}
+ID-860 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-861 ;negative;{'neg': 0.379, 'neu': 0.621, 'pos': 0.0, 'compound': -0.7717}
+ID-862 ;negative;{'neg': 0.353, 'neu': 0.647, 'pos': 0.0, 'compound': -0.7184}
+ID-863 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-864 ;negative;{'neg': 0.09, 'neu': 0.845, 'pos': 0.065, 'compound': -0.2263}
+ID-865 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-866 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-867 ;positive;{'neg': 0.0, 'neu': 0.783, 'pos': 0.217, 'compound': 0.3612}
+ID-910 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-911 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-912 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-913 ;negative;{'neg': 0.083, 'neu': 0.917, 'pos': 0.0, 'compound': -0.2023}
+ID-914 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-915 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-916 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-917 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-918 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-919 ;positive;{'neg': 0.0, 'neu': 0.872, 'pos': 0.128, 'compound': 0.296}
+ID-920 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-921 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-922 ;positive;{'neg': 0.0, 'neu': 0.842, 'pos': 0.158, 'compound': 0.4588}
+ID-923 ;positive;{'neg': 0.0, 'neu': 0.392, 'pos': 0.608, 'compound': 0.7351}
+ID-924 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-925 ;positive;{'neg': 0.0, 'neu': 0.704, 'pos': 0.296, 'compound': 0.2732}
+ID-926 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-927 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-928 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-929 ;negative;{'neg': 0.252, 'neu': 0.748, 'pos': 0.0, 'compound': -0.8126}
+ID-930 ;negative;{'neg': 0.13, 'neu': 0.87, 'pos': 0.0, 'compound': -0.128}
+ID-931 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-932 ;positive;{'neg': 0.0, 'neu': 0.68, 'pos': 0.32, 'compound': 0.5106}
+ID-933 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-934 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-935 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-936 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-937 ;positive;{'neg': 0.0, 'neu': 0.667, 'pos': 0.333, 'compound': 0.4588}
+ID-938 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-939 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-940 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-941 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-942 ;positive;{'neg': 0.0, 'neu': 0.545, 'pos': 0.455, 'compound': 0.3626}
+ID-943 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-944 ;positive;{'neg': 0.0, 'neu': 0.556, 'pos': 0.444, 'compound': 0.4939}
+ID-945 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-946 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-947 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-948 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-949 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-950 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-951 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-952 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-953 ;positive;{'neg': 0.0, 'neu': 0.0, 'pos': 1.0, 'compound': 0.2263}
+ID-954 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-955 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-956 ;negative;{'neg': 0.086, 'neu': 0.914, 'pos': 0.0, 'compound': -0.0572}
+ID-957 ;positive;{'neg': 0.0, 'neu': 0.741, 'pos': 0.259, 'compound': 0.5994}
+ID-958 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-959 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-960 ;positive;{'neg': 0.0, 'neu': 0.408, 'pos': 0.592, 'compound': 0.4404}
+ID-961 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-962 ;positive;{'neg': 0.124, 'neu': 0.741, 'pos': 0.135, 'compound': 0.0688}
+ID-963 ;positive;{'neg': 0.0, 'neu': 0.824, 'pos': 0.176, 'compound': 0.4939}
+ID-964 ;positive;{'neg': 0.0, 'neu': 0.508, 'pos': 0.492, 'compound': 0.4404}
+ID-965 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-966 ;positive;{'neg': 0.0, 'neu': 0.805, 'pos': 0.195, 'compound': 0.4404}
+ID-967 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-968 ;positive;{'neg': 0.0, 'neu': 0.849, 'pos': 0.151, 'compound': 0.4939}
+ID-969 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-970 ;positive;{'neg': 0.0, 'neu': 0.513, 'pos': 0.487, 'compound': 0.2263}
+ID-971 ;negative;{'neg': 0.143, 'neu': 0.815, 'pos': 0.042, 'compound': -0.6249}
+ID-972 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-973 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-974 ;positive;{'neg': 0.0, 'neu': 0.714, 'pos': 0.286, 'compound': 0.4939}
+ID-975 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-976 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-977 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-978 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-979 ;negative;{'neg': 0.246, 'neu': 0.754, 'pos': 0.0, 'compound': -0.5994}
+ID-980 ;negative;{'neg': 0.361, 'neu': 0.309, 'pos': 0.33, 'compound': -0.0772}
+ID-981 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-982 ;negative;{'neg': 0.486, 'neu': 0.514, 'pos': 0.0, 'compound': -0.4278}
+ID-983 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-984 ;negative;{'neg': 0.297, 'neu': 0.469, 'pos': 0.234, 'compound': -0.2023}
+ID-985 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-986 ;positive;{'neg': 0.0, 'neu': 0.843, 'pos': 0.157, 'compound': 0.0772}
+ID-987 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-988 ;positive;{'neg': 0.0, 'neu': 0.769, 'pos': 0.231, 'compound': 0.5574}
+ID-989 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-990 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-991 ;positive;{'neg': 0.253, 'neu': 0.46, 'pos': 0.287, 'compound': 0.0772}
+ID-992 ;negative;{'neg': 0.232, 'neu': 0.768, 'pos': 0.0, 'compound': -0.2755}
+ID-993 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-994 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-995 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-996 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-997 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-998 ;negative;{'neg': 0.228, 'neu': 0.569, 'pos': 0.203, 'compound': -0.0772}
+ID-999 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-1000 ;positive;{'neg': 0.0, 'neu': 0.82, 'pos': 0.18, 'compound': 0.296}
+ID-1001 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-1002 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-1003 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-1004 ;negative;{'neg': 0.321, 'neu': 0.679, 'pos': 0.0, 'compound': -0.4278}
+ID-1005 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-1006 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-1007 ;positive;{'neg': 0.0, 'neu': 0.783, 'pos': 0.217, 'compound': 0.3612}
+ID-1008 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-1009 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
+ID-1010 ;neutral;{'neg': 0.0, 'neu': 1.0, 'pos': 0.0, 'compound': 0.0}
