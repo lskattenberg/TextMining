@@ -12,9 +12,9 @@ nlp=spacy.load('en')
 
 
 analyzer = SentimentIntensityAnalyzer()
-filename="Nirvana/Leonard/Lyrics_with_Leonard_annotations_formatted.csv"
-outputfilename="Nirvana/Leonard/VADER_Nirvana_Leonard.csv"
-outputfile = "Nirvana/Leonard/VADER_Nirvana_Leonard_detailed_overview.txt"
+filename="Nirvana/Leonard/Lyrics_with_Gold_annotations_formatted.csv"
+outputfilename="Nirvana/Leonard/VADER_Nirvana_Gold.csv"
+outputfile = "Nirvana/Leonard/VADER_Nirvana_Gold_detailed_overview.txt"
 f_out=open(outputfile,"w+")
 
 

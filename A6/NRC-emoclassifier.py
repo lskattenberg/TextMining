@@ -28,9 +28,9 @@ emotionset=NRCpolarity
 # emotionset=NRCemotions
 
 ## input output files
-filename="Nirvana/Leonard/Lyrics_with_Leonard_annotations_formatted.csv"
-outputfilename="Nirvana/Leonard/NRC_Nirvana_Leonard.csv"
-detailed_outputfile = "Nirvana/Leonard/NRC_Nirvana_Leonard_detailed_overview.txt"
+filename="Nirvana/Leonard/Lyrics_with_Gold_annotations_formatted.csv"
+outputfilename="Nirvana/Leonard/NRC_Nirvana_Gold.csv"
+detailed_outputfile = "Nirvana/Leonard/NRC_Nirvana_Gold_detailed_overview.txt"
 f_out=open(detailed_outputfile,"w+")
 
 # emotion lexicon
