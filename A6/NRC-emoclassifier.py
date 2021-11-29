@@ -113,7 +113,8 @@ def main():
                 s = nlp(row[2])
                 emoCounter=analyze_line(s, emotionset)
                 if len(emotionset)==2 and 'positive' in emotionset and 'negative' in emotionset:
-                    main_result=aggregate_polarity(emoCounter)
+                    main_result = aggregate_propotional_polarity(emoCounter)
+                    # main_result=aggregate_polarity(emoCounter)
                 else :
                     main_result=aggregate_emotions(emoCounter)
                 # write result to files
