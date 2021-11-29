@@ -1,18 +1,18 @@
 ID;Gold;Pred;Text
 ID-1;ntr;pos;I need an easy friend
-ID-2;ntr;ntr;I do, with an ear to lend 
+ID-2;ntr;ntr;I do, with an ear to lend
 ID-3;ntr;ntr;I do think you fit this shoe
-ID-4;ntr;ntr;I do, but you have a clue 
+ID-4;ntr;ntr;I do, but you have a clue
 ID-5;ntr;pos;I’ll take advantage while
 ID-6;neg;ntr;You hang me out to dry
 ID-7;neg;ntr;But I can't see you every night
-ID-8;pos;ntr;Free (I do, I do) 
+ID-8;pos;ntr;Free (I do, I do)
 ID-9;ntr;pos;I'm standing in your line
 ID-10;ntr;pos;I do hope you have the time
 ID-11;ntr;pos;I do pick a number too
 ID-12;pos;ntr;I do keep a date with you
 ID-13;neg;ntr;No, I can't see you every night
-ID-14;ntr;ntr;I do 
+ID-14;ntr;ntr;I do
 ID-15;ntr;ntr;What else should I be
 ID-16;ntr;ntr;All apologies
 ID-17;ntr;ntr;What else could I say
@@ -70,7 +70,7 @@ ID-68;neg;pos;Butchered sincerity. Act out of loyalty.
 ID-69;neg;ntr;Defending free country. Wish away. Hey! Had a lobotomy.
 ID-70;neg;ntr;To save little family. Surrealistic fantasy. Bad boy. Fight!
 ID-71;ntr;pos;All we know id restitution. Living out your day of fusion.
-ID-72;ntr;neg;If there's a hope, please show me faster. Don't feel guilty, pass a riot.
+ID-72;ntr;ntr;If there's a hope, please show me faster. Don't feel guilty, pass a riot.
 ID-73;neg;ntr;Somebody said that they're not much like I am.
 ID-74;ntr;pos;I know I can't make it up. Althought if you go along, I'll sing your song.
 ID-75;neg;ntr;Sickening pessimists. Despicable masses.
@@ -78,7 +78,7 @@ ID-76;neg;ntr;Asseverated commumists. Apocalyptic bastards.
 ID-77;neg;ntr;Rinkydink God. For putting me on this earth.
 ID-78;neg;pos;Being very privileged. Death in mind. Nurse!
 ID-79;ntr;pos;All we know id restitution. Living out your day of fusion.
-ID-80;ntr;neg;If there's a hope, please show me faster. Don't feel guilty, pass a riot.
+ID-80;ntr;ntr;If there's a hope, please show me faster. Don't feel guilty, pass a riot.
 ID-81;neg;ntr;Somebody said that they're not much like I am.
 ID-82;ntr;ntr;I know I can't make it up. Althought if you go along,
 ID-83;ntr;pos;I'll sing your song.
@@ -118,13 +118,13 @@ ID-116;ntr;ntr;sound the same
 ID-117;neg;pos;I miss the comfort in being sad
 ID-118;ntr;pos;In her false withness, we hope you're still with us, to see if they gloar
 ID-119;neg;neg;or drown
-ID-120;neg;pos;Our favorite paitent, A display of patience, disease-covered Puget Sound
+ID-120;neg;ntr;Our favorite paitent, A display of patience, disease-covered Puget Sound
 ID-121;neg;neg;She'll come back as fire, to burn all the liars, and leave a blanket of ash
 ID-122;neg;ntr;on the ground I muss teh comfort in being sad
 ID-123;ntr;ntr;She eyes me like a pisces when I am weak
 ID-124;neg;ntr;I've been locked inside your Heart-Shaped box for weeks
 ID-125;ntr;pos;I've been drawn into your magnet tar pit trap
-ID-126;pos;neg;I wish I could eat your cancer when you turn black
+ID-126;pos;ntr;I wish I could eat your cancer when you turn black
 ID-127;ntr;ntr;Hey
 ID-128;ntr;ntr;Wait
 ID-129;neg;neg;I've got a new complaint
@@ -182,7 +182,7 @@ ID-180;neg;neg;And I'm ... [scream]
 ID-181;ntr;ntr;Daddy's little girl ain't a girl no more [x6]
 ID-182;ntr;neg;Yeah...stoned...stoned.
 ID-183;ntr;ntr;Daddy's little girl ain't a girl no more [x14]
-ID-184;ntr;neg;When I'm feeling tired.
+ID-184;ntr;ntr;When I'm feeling tired.
 ID-185;ntr;pos;She puts food through the door.
 ID-186;neg;neg;I crawl towards the cursed light.
 ID-187;neg;ntr;Sometimes I can't find my way.
@@ -190,7 +190,7 @@ ID-188;ntr;ntr;Newspapers spin' round.
 ID-189;ntr;ntr;Soaking all that they can.
 ID-190;ntr;pos;The cleaning is too kind.
 ID-191;ntr;pos;A good hosing down.
-ID-192;pos;pos;The lady whom I feel a maternal love for.
+ID-192;pos;ntr;The lady whom I feel a maternal love for.
 ID-193;neg;ntr;Cannot look me in the eyes.
 ID-194;ntr;ntr;But I see hers and they are blue.
 ID-195;neg;ntr;And they cock and twist and masturbate.
@@ -303,7 +303,7 @@ ID-301;neg;ntr;Now I'm bored and old
 ID-302;ntr;ntr;Self-Appointed judges judge
 ID-303;ntr;ntr;More than they have sold
 ID-304;neg;ntr;Serve the servants - Oh no
-ID-305;neg;neg;That legendary divorce is such a bore
+ID-305;neg;ntr;That legendary divorce is such a bore
 ID-306;neg;neg;As my bones grew they did hurt
 ID-307;neg;neg;They hurt really bad
 ID-308;neg;ntr;I tried hard to have a father
@@ -313,7 +313,7 @@ ID-311;pos;neg;Don't hate you anymore
 ID-312;ntr;ntr;there is nothing I could say
 ID-313;ntr;ntr;that I haven't thought before
 ID-314;neg;ntr;Serve the servants - oh no
-ID-315;neg;neg;That legendary divorce is such a bore
+ID-315;neg;ntr;That legendary divorce is such a bore
 ID-316;neg;ntr;Afraid to grade
 ID-317;pos;pos;Wouldn't it be fun
 ID-318;ntr;ntr;Cross says floss

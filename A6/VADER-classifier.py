@@ -47,9 +47,9 @@ def sentence_doc():
 				for i in ss:
 					# {'neg': 0.195, 'neu': 0.531, 'pos': 0.274, 'compound': 0.2228}
 					if i == "compound":
-						if ss[i]> 0.1:
+						if ss[i]> 0.33:
 							pred_value="pos"
-						elif ss[i] < -0.1:
+						elif ss[i] < -0.33:
 							pred_value = "neg"
 						else:
 							pred_value = "ntr"

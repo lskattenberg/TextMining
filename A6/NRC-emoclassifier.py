@@ -87,7 +87,7 @@ def aggregate_polarity(emoCounter):
     return(polarity)
 
 def aggregate_propotional_polarity(emoCounter):
-    relevant_proportion = 0.6
+    relevant_proportion = 0.67
     totalemos = emoCounter['positive'] + emoCounter['negative']
     if totalemos == 0:
         return 'ntr'

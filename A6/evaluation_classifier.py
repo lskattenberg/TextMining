@@ -7,8 +7,8 @@
 import csv
 from sklearn.model_selection import cross_validate
 from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
-inputfile="Nirvana/Leonard/VADER_Nirvana_Leonard.csv"
-outputfile= "Nirvana/Leonard/VADER_Nirvana_Leonard_evaluation_report.txt"
+inputfile="Nirvana/Leonard/NRC_Nirvana_Leonard.csv"
+outputfile= "Nirvana/Leonard/NRC_Nirvana_Leonard_evaluation_report.txt"
 f_out=open(outputfile,"w+")
 
 y_true=[] # gold annotations

@@ -1,0 +1,25 @@
+gold	:[['neg', 123], ['pos', 37], ['ntr', 204]]
+pred	:[['neg', 72], ['pos', 73], ['ntr', 219]]
+
+input:Nirvana/Leonard/NRC_Nirvana_Leonard.csv
+
+accuracy_score:0.4807692307692308
+
+classification report:
+              precision    recall  f1-score   support
+
+         neg       0.46      0.27      0.34       123
+         ntr       0.58      0.62      0.60       204
+         pos       0.22      0.43      0.29        37
+
+    accuracy                           0.48       364
+   macro avg       0.42      0.44      0.41       364
+weighted avg       0.50      0.48      0.48       364
+
+
+confusion matrix:
+
+[[ 33  76  14]
+ [ 35 126  43]
+ [  4  17  16]]
+row is gold  /	column is predicted
